@@ -149,43 +149,43 @@ return {
 
 	-- Step 37: Level 60 books: Western Plaguelands
 	-- {zone:1422} Western Plaguelands
-	["Level 60 books: {zone:1422}"] = "",
+	["Level 60 books: {zone:1422}"] = "Libros de nivel 60: {zone:1422}",
 	-- {item:228141} Necromancy 101 · {area:2298} Caer Darrow · {area:2057} Scholomance · {item:228132} Undead Potatoes · {area:199} Felstone Field
 	["Eight more books lie in level 55-60 zones; the mage trainers beside the librarians take them, not the librarians. {item:228141} lies on a table in the ruined keep on {area:2298}, above {area:2057} (outside the dungeon); {item:228132} at {area:199}."] = "",
 
 	-- Step 38: Level 60 books: Eastern Plaguelands
 	-- {zone:1423} Eastern Plaguelands
-	["Level 60 books: {zone:1423}"] = "",
+	["Level 60 books: {zone:1423}"] = "Libros de nivel 60: {zone:1423}",
 	-- {item:228135} A Study of the Light · {area:2268} Light's Hope Chapel · {item:228138} The Knight and the Lady · {area:2264} Corin's Crossing · {area:2279} Stratholme · {item:228140} Scourge: Undead Menace or Misunderstood? · {area:2277} Plaguewood
 	["{item:228135} is inside {area:2268}. {item:228138} lies at {area:2264}; other copies lie elsewhere in the zone (one by the {area:2279} gates), and you can take only one. {item:228140} is on a table in {area:2277}: wait for the patrolling elite to clear the creatures beside it and walk on."] = "",
 
 	-- Step 39: Level 60 books: Timbermaw Hold
 	-- {area:1769} Timbermaw Hold
-	["Level 60 books: {area:1769}"] = "",
+	["Level 60 books: {area:1769}"] = "Libros de nivel 60: {area:1769}",
 	-- {item:228134} Northern Kalimdor - A Comprehensive Guide · {area:1769} Timbermaw Hold · {zone:1448} Felwood · {zone:1452} Winterspring
 	["{item:228134} lies inside the {area:1769} tunnel between {zone:1448} and {zone:1452}."] = "",
 
 	-- Step 40: Level 60 books: Everlook
 	-- {area:2255} Everlook
-	["Level 60 books: {area:2255}"] = "",
+	["Level 60 books: {area:2255}"] = "Libros de nivel 60: {area:2255}",
 	-- {item:228136} Ka-Boom! · {area:2255} Everlook
 	["{item:228136} sits on a shelf behind the alchemy supplier in {area:2255}."] = "",
 
 	-- Step 41: Level 60 books: Blackrock Mountain
 	-- {area:254} Blackrock Mountain
-	["Level 60 books: {area:254}"] = "",
+	["Level 60 books: {area:254}"] = "Libros de nivel 60: {area:254}",
 	-- {item:228133} Magma or Lava? · {area:254} Blackrock Mountain · {area:1584} Blackrock Depths · {area:2717} Molten Core
 	["{item:228133} lies inside {area:254}, in the mine passage towards {area:1584} beyond the {area:2717} quest giver. The waypoint marks the mountain."] = "",
 
 	-- Step 42: The level 60 books: Jennea Cannon
 	-- {npc:5497} Jennea Cannon
-	["The level 60 books: {npc:5497}"] = "",
+	["The level 60 books: {npc:5497}"] = "Libros de nivel 60: {npc:5497}",
 	-- {npc:5497} Jennea Cannon · {npc:211033} Garion Wendell · {item:228132} Undead Potatoes · {item:228138} The Knight and the Lady · {item:228140} Scourge: Undead Menace or Misunderstood?
 	["{npc:5497}, the mage trainer beside {npc:211033} in the Wizard's Sanctum, takes the level 60 books: she offers each book's quest while the book is in your bags. Hand in {item:228132}, {item:228138} and {item:228140} the same way (their quests are not in Polestar's data yet)."] = "",
 
 	-- Step 43: The level 60 books: Oran Snakewrithe
 	-- {npc:7825} Oran Snakewrithe
-	["The level 60 books: {npc:7825}"] = "",
+	["The level 60 books: {npc:7825}"] = "Libros de nivel 60: {npc:7825}",
 	-- {npc:7825} Oran Snakewrithe · {npc:211022} Owen Thadd · {object:36082} Magic Quarter
 	["{npc:7825}, beside {npc:211022} in the {object:36082}, takes the level 60 books: each book's quest is offered while the book is in your bags. Take and hand them in one at a time (Polestar cannot track these quests for the Horde yet)."] = "",
 }

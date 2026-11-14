@@ -8,144 +8,144 @@
 return {
 	-- Guide
 	-- {quest:6061} Taming the Beast
-	["{quest:6061} (Horde)"] = "",
+	["{quest:6061} (Horde)"] = "{quest:6061} (Horda)",
 	-- {item:15908} Taming Rod · {spell:1515} Tame Beast · {spell:5149} Beast Training
-	["Your own pet at 10: three practice tames with a {item:15908} teach {spell:1515}, then {spell:5149}."] = "",
+	["Your own pet at 10: three practice tames with a {item:15908} teach {spell:1515}, then {spell:5149}."] = "Tu propia mascota a nivel 10: tres domesticaciones de práctica con {item:15908} te enseñan {spell:1515}, y luego {spell:5149}.",
 
 	-- Step 1: Thotar in Razor Hill
 	-- {npc:3171} Thotar · {area:362} Razor Hill
-	["{npc:3171} in {area:362}"] = "",
+	["{npc:3171} in {area:362}"] = "{npc:3171} en {area:362}",
 	-- {npc:3171} Thotar · {area:362} Razor Hill · {npc:3407} Sian'dur · {zone:1454} Orgrimmar · {npc:11814} Kali Remik · {area:367} Sen'jin Village · {npc:3038} Kary Thunderhorn · {zone:1456} Thunder Bluff
-	["At 10 go to {npc:3171}, the hunter trainer inside the barracks in {area:362}. If {npc:3407} in {zone:1454}, {npc:11814} in {area:367} or {npc:3038} in {zone:1456} hands you The Hunter's Path, take it and hand it to {npc:3171} for a little experience; it is only a pointer, and you can take the first rod without it."] = "",
+	["At 10 go to {npc:3171}, the hunter trainer inside the barracks in {area:362}. If {npc:3407} in {zone:1454}, {npc:11814} in {area:367} or {npc:3038} in {zone:1456} hands you The Hunter's Path, take it and hand it to {npc:3171} for a little experience; it is only a pointer, and you can take the first rod without it."] = "A nivel 10 ve con {npc:3171}, el instructor de cazadores dentro del cuartel en {area:362}. Si {npc:3407} en {zone:1454}, {npc:11814} en {area:367} o {npc:3038} en {zone:1456} te da El camino del cazador, acéptala y entrégasela a {npc:3171} por un poco de experiencia; es solo una indicación, y puedes obtener la primera vara sin ella.",
 	-- {npc:3171} Thotar · {item:15908} Taming Rod
-	["{npc:3171}: the first {item:15908}"] = "",
+	["{npc:3171}: the first {item:15908}"] = "{npc:3171}: la primera {item:15908}",
 
 	-- Step 2: Dire Mottled Boar
 	-- {area:362} Razor Hill · {item:15908} Taming Rod · {npc:3171} Thotar · {spell:75} Auto Shot
 	-- plural, as words: Dire Mottled Boars = {npc:3099} Dire Mottled Boar
-	["Dire Mottled Boars (level 6-7) roam just north and west of {area:362}. How the rod works: target a living beast, use the {item:15908} from inside its range and stand still for the whole channel while the beast hits you. Moving, fighting back, a heal from someone else or anyone else hitting the beast breaks it and costs one of the rod's few charges; if they run out, destroy the rod, abandon the quest and take it again from {npc:3171}. The boars charge from 20 yards, so start with the rod, not {spell:75}. The tamed boar becomes your pet for practice. Keep each rod: it goes back to {npc:3171}."] = "",
+	["Dire Mottled Boars (level 6-7) roam just north and west of {area:362}. How the rod works: target a living beast, use the {item:15908} from inside its range and stand still for the whole channel while the beast hits you. Moving, fighting back, a heal from someone else or anyone else hitting the beast breaks it and costs one of the rod's few charges; if they run out, destroy the rod, abandon the quest and take it again from {npc:3171}. The boars charge from 20 yards, so start with the rod, not {spell:75}. The tamed boar becomes your pet for practice. Keep each rod: it goes back to {npc:3171}."] = "Los Jabalíes jaspeados temibles (nivel 6-7) rondan justo al norte y oeste de {area:362}. Cómo funciona la vara: fija como objetivo una bestia viva, usa la {item:15908} dentro de su alcance y quédate quieto durante todo el canalizado mientras la bestia te golpea. Moverte, contraatacar, una curación de otra persona o que cualquier otro golpee a la bestia lo interrumpe y cuesta una de las pocas cargas de la vara; si se acaban, destruye la vara, abandona la misión y acéptala de nuevo con {npc:3171}. Los jabalíes cargan desde 20 metros, así que empieza con la vara, no con {spell:75}. El jabalí domesticado se convierte en tu mascota de práctica. Guarda cada vara: vuelve a {npc:3171}.",
 	-- {item:15908} Taming Rod
-	["Use the {item:15908} on a living boar"] = "",
+	["Use the {item:15908} on a living boar"] = "Usa {item:15908} en un jabalí vivo",
 
 	-- Step 3: Surf Crawler
 	-- {spell:2641} Dismiss Pet · {area:367} Sen'jin Village · {area:368} Echo Isles
 	-- plural, as words: Surf Crawlers = {npc:3107} Surf Crawler · Pygmy Surf Crawlers = {npc:3106} Pygmy Surf Crawler
-	["First dismiss the boar (right-click your pet's portrait, {spell:2641}): a released practice pet can turn on you. Surf Crawlers (level 7-8) walk the beaches around {area:367} and the {area:368}; the small Pygmy Surf Crawlers do not count. A crawler runs for help at 15% health, so do not hurt it."] = "",
+	["First dismiss the boar (right-click your pet's portrait, {spell:2641}): a released practice pet can turn on you. Surf Crawlers (level 7-8) walk the beaches around {area:367} and the {area:368}; the small Pygmy Surf Crawlers do not count. A crawler runs for help at 15% health, so do not hurt it."] = "Primero despide al jabalí (clic derecho en el retrato de tu mascota, {spell:2641}): una mascota de práctica liberada puede atacarte. Los Reptadores de espuma (nivel 7-8) caminan por las playas alrededor de {area:367} y {area:368}; los pequeños Reptadores de espuma pigmeos no cuentan. Un reptador corre a pedir ayuda al 15% de salud, así que no lo hieras.",
 	-- {item:15908} Taming Rod · {npc:3107} Surf Crawler
-	["Use the {item:15908} on a living {npc:3107}"] = "",
+	["Use the {item:15908} on a living {npc:3107}"] = "Usa la {item:15908} en un {npc:3107} vivo",
 
 	-- Step 4: Armored Scorpid
 	-- {area:362} Razor Hill · {spell:1494} Track Beasts
 	-- plural, as words: Armored Scorpids = {npc:3126} Armored Scorpid
-	["Dismiss the crawler. Armored Scorpids (level 7-8) crawl the dry plains west and south-west of {area:362}, some just south of the road west out of town; {spell:1494} shows them. Their hits can break the channel: start at full health and keep still."] = "",
+	["Dismiss the crawler. Armored Scorpids (level 7-8) crawl the dry plains west and south-west of {area:362}, some just south of the road west out of town; {spell:1494} shows them. Their hits can break the channel: start at full health and keep still."] = "Despide al reptador. Los Escórpidos acorazados (nivel 7-8) se arrastran por las llanuras secas al oeste y suroeste de {area:362}, algunos justo al sur del camino que sale al oeste del pueblo; {spell:1494} los muestra. Sus golpes pueden interrumpir el canalizado: empieza con la salud completa y quédate quieto.",
 	-- {item:15908} Taming Rod
-	["Use the {item:15908} on a living scorpid"] = "",
+	["Use the {item:15908} on a living scorpid"] = "Usa la {item:15908} en un escórpido vivo",
 
 	-- Step 5: Ormak Grimshot in Orgrimmar
 	-- {npc:3352} Ormak Grimshot · {zone:1454} Orgrimmar
-	["{npc:3352} in {zone:1454}"] = "",
+	["{npc:3352} in {zone:1454}"] = "{npc:3352} en {zone:1454}",
 	-- {zone:1454} Orgrimmar · {npc:3352} Ormak Grimshot · {object:172958} Valley of Honor · {npc:10088} Xao'tsu
-	["Follow the road north to {zone:1454}'s gate. {npc:3352} stands with the hunter trainers in the {object:172958}, up the ramp at the city's east side; {npc:10088}, the pet trainer, is a few steps north of him."] = "",
+	["Follow the road north to {zone:1454}'s gate. {npc:3352} stands with the hunter trainers in the {object:172958}, up the ramp at the city's east side; {npc:10088}, the pet trainer, is a few steps north of him."] = "Sigue el camino al norte hasta la puerta de {zone:1454}. {npc:3352} está con los instructores de cazadores en {object:172958}, subiendo la rampa en el lado este de la ciudad; {npc:10088}, el instructor de mascotas, está unos pasos al norte de él.",
 
 	-- Step 6: Yaw Sharpmane at Bloodhoof
 	-- {npc:3065} Yaw Sharpmane
-	["{npc:3065} at Bloodhoof"] = "",
+	["{npc:3065} at Bloodhoof"] = "{npc:3065} en Bloodhoof",
 	-- {npc:3065} Yaw Sharpmane · {area:222} Bloodhoof Village · {npc:3038} Kary Thunderhorn · {zone:1456} Thunder Bluff · {npc:3407} Sian'dur · {zone:1454} Orgrimmar · {npc:3171} Thotar · {area:362} Razor Hill
-	["At 10 go to {npc:3065}, who stands at the north edge of {area:222}. The Hunter's Path from {npc:3038} in {zone:1456}, {npc:3407} in {zone:1454} or {npc:3171} in {area:362} also leads here, for a little experience; it is only a pointer."] = "",
+	["At 10 go to {npc:3065}, who stands at the north edge of {area:222}. The Hunter's Path from {npc:3038} in {zone:1456}, {npc:3407} in {zone:1454} or {npc:3171} in {area:362} also leads here, for a little experience; it is only a pointer."] = "A nivel 10 ve con {npc:3065}, que está en el borde norte de {area:222}. El camino del cazador de {npc:3038} en {zone:1456}, {npc:3407} en {zone:1454} o {npc:3171} en {area:362} también lleva aquí, por un poco de experiencia; es solo una indicación.",
 	-- {npc:3065} Yaw Sharpmane · {item:15908} Taming Rod
-	["{npc:3065}: the first {item:15908}"] = "",
+	["{npc:3065}: the first {item:15908}"] = "{npc:3065}: la primera {item:15908}",
 
 	-- Step 7: Adult Plainstrider
 	-- {area:222} Bloodhoof Village · {item:15908} Taming Rod
 	-- plural, as words: Adult Plainstriders = {npc:2956} Adult Plainstrider
-	["Adult Plainstriders (level 6-7) walk the plains south-west and north-west of {area:222}. How the rod works: target a living beast, use the {item:15908} and stand still for the whole channel while it hits you; moving, fighting back or anyone else's help breaks it and costs one of the rod's few charges (out of charges: destroy the rod, abandon the quest, take it again). A plainstrider flees at 25% health, so do not damage it first. Keep each rod: it goes back to Yaw."] = "",
+	["Adult Plainstriders (level 6-7) walk the plains south-west and north-west of {area:222}. How the rod works: target a living beast, use the {item:15908} and stand still for the whole channel while it hits you; moving, fighting back or anyone else's help breaks it and costs one of the rod's few charges (out of charges: destroy the rod, abandon the quest, take it again). A plainstrider flees at 25% health, so do not damage it first. Keep each rod: it goes back to Yaw."] = "Los Zancudos de llanura adultos (nivel 6-7) caminan por las llanuras al suroeste y noroeste de {area:222}. Cómo funciona la vara: fija como objetivo una bestia viva, usa la {item:15908} y quédate quieto durante todo el canalizado mientras te golpea; moverte, contraatacar o la ayuda de cualquier otro lo interrumpe y cuesta una de las pocas cargas de la vara (sin cargas: destruye la vara, abandona la misión, acéptala de nuevo). Un zancudo huye al 25% de salud, así que no lo dañes primero. Guarda cada vara: vuelve a Yaw.",
 	-- {item:15908} Taming Rod
-	["Use the {item:15908} on a living plainstrider"] = "",
+	["Use the {item:15908} on a living plainstrider"] = "Usa la {item:15908} en un zancudo vivo",
 
 	-- Step 8: Prairie Stalker
 	-- {spell:2641} Dismiss Pet · {area:222} Bloodhoof Village
 	-- plural, as words: Prairie Stalkers = {npc:2959} Prairie Stalker
-	["Dismiss the plainstrider first (right-click the pet portrait, {spell:2641}): a released practice pet may attack you. Prairie Stalkers (level 7-8) roam the grass north of {area:222}."] = "",
+	["Dismiss the plainstrider first (right-click the pet portrait, {spell:2641}): a released practice pet may attack you. Prairie Stalkers (level 7-8) roam the grass north of {area:222}."] = "Primero despide al zancudo (clic derecho en el retrato de la mascota, {spell:2641}): una mascota de práctica liberada puede atacarte. Los Acechadores de pradera (nivel 7-8) rondan la hierba al norte de {area:222}.",
 	-- {item:15908} Taming Rod
-	["Use the {item:15908} on a living stalker"] = "",
+	["Use the {item:15908} on a living stalker"] = "Usa {item:15908} en un acechador vivo",
 
 	-- Step 9: Swoop
 	-- {npc:2970} Swoop
 	-- plural, as words: Swoops = {npc:2970} Swoop · Taloned Swoops = {npc:2971} Taloned Swoop
-	["Dismiss the stalker. Swoops (level 7-9) glide over the plains north-west and north-east of Bloodhoof; the Taloned Swoops do not count. A {npc:2970}'s knockdown breaks the channel, but it lands only once per channel: start the rod just after it has used it."] = "",
+	["Dismiss the stalker. Swoops (level 7-9) glide over the plains north-west and north-east of Bloodhoof; the Taloned Swoops do not count. A {npc:2970}'s knockdown breaks the channel, but it lands only once per channel: start the rod just after it has used it."] = "Despide al acechador. Los Aguilones (nivel 7-9) planean sobre las llanuras al noroeste y noreste de Bloodhoof; los Aguilones garrudos no cuentan. El derribo de un {npc:2970} interrumpe el canalizado, pero solo acierta una vez por canalizado: empieza la vara justo después de que lo haya usado.",
 	-- {item:15908} Taming Rod · {npc:2970} Swoop
-	["Use the {item:15908} on a living {npc:2970}"] = "",
+	["Use the {item:15908} on a living {npc:2970}"] = "Usa la {item:15908} en un {npc:2970} vivo",
 
 	-- Step 10: Holt Thunderhorn in Thunder Bluff
 	-- {npc:3039} Holt Thunderhorn · {zone:1456} Thunder Bluff
-	["{npc:3039} in {zone:1456}"] = "",
+	["{npc:3039} in {zone:1456}"] = "{npc:3039} en {zone:1456}",
 	-- {zone:1456} Thunder Bluff · {npc:3039} Holt Thunderhorn · {area:1641} Hunter Rise · {npc:10086} Hesuwa Thunderhorn
-	["Head north to {zone:1456} and take a lift up. {npc:3039} stands with the hunter trainers on {area:1641}; {npc:10086}, the pet trainer, is nearby."] = "",
+	["Head north to {zone:1456} and take a lift up. {npc:3039} stands with the hunter trainers on {area:1641}; {npc:10086}, the pet trainer, is nearby."] = "Ve al norte hacia {zone:1456} y toma un elevador hacia arriba. {npc:3039} está con los instructores de cazadores en {area:1641}; {npc:10086}, el instructor de mascotas, está cerca.",
 
 	-- Step 11: Elayaa Easewind
 	-- {npc:254084} Elayaa Easewind · {zone:2521} Zephras Isle · {area:16638} Valanaar · {quest:94007} Taming the Beast
-	["At 10, {npc:254084}, a hunter trainer on {zone:2521}, may send you on to {area:16638} with {quest:94007}. It is only a pointer: skip it if you are already in {area:16638}."] = "",
+	["At 10, {npc:254084}, a hunter trainer on {zone:2521}, may send you on to {area:16638} with {quest:94007}. It is only a pointer: skip it if you are already in {area:16638}."] = "A nivel 10, {npc:254084}, instructor de cazadores en {zone:2521}, puede enviarte a {area:16638} con {quest:94007}. Es solo una indicación: sáltala si ya estás en {area:16638}.",
 
 	-- Step 12: Quel'ana Quickgale in Valanaar
 	-- {npc:252389} Quel'ana Quickgale · {area:16638} Valanaar
-	["{npc:252389} in {area:16638}"] = "",
+	["{npc:252389} in {area:16638}"] = "{npc:252389} en {area:16638}",
 	-- {npc:252389} Quel'ana Quickgale · {area:16638} Valanaar · {npc:254411} Quel'dora Quickgale
-	["{npc:252389} stands with the trainers by {area:16638}'s west gate, {npc:254411} beside her."] = "",
+	["{npc:252389} stands with the trainers by {area:16638}'s west gate, {npc:254411} beside her."] = "{npc:252389} está con los instructores junto a la puerta oeste de {area:16638}, con {npc:254411} a su lado.",
 	-- {npc:252389} Quel'ana Quickgale · {item:15908} Taming Rod
-	["{npc:252389}: the first {item:15908}"] = "",
+	["{npc:252389}: the first {item:15908}"] = "{npc:252389}: {item:15908} inicial",
 
 	-- Step 13: Windsong Crawler
 	-- {area:16638} Valanaar · {item:15908} Taming Rod
 	-- plural, as words: Windsong Crawlers = {npc:254588} Windsong Crawler
-	["Windsong Crawlers live only by water: the nearest scuttle along the shore south-west of {area:16638}, among the crabs. How the rod works: target a living crawler, use the {item:15908} and stand still for the whole channel while it hits you; moving, fighting back or anyone else's help breaks it and costs a charge. Killing one does not count."] = "",
+	["Windsong Crawlers live only by water: the nearest scuttle along the shore south-west of {area:16638}, among the crabs. How the rod works: target a living crawler, use the {item:15908} and stand still for the whole channel while it hits you; moving, fighting back or anyone else's help breaks it and costs a charge. Killing one does not count."] = "Los Reptadores Cantaviento viven solo junto al agua: los más cercanos se escurren por la orilla al suroeste de {area:16638}, entre los cangrejos. Cómo funciona la vara: fija como objetivo un reptador vivo, usa la {item:15908} y quédate quieto durante todo el canalizado mientras te golpea; moverte, contraatacar o la ayuda de cualquier otro lo interrumpe y cuesta una carga. Matar uno no cuenta.",
 	-- {item:15908} Taming Rod
-	["Use the {item:15908} on a living crawler"] = "",
+	["Use the {item:15908} on a living crawler"] = "Usa {item:15908} en un crawler vivo",
 	-- {npc:254588} Windsong Crawler
-	["Tame {npc:254588}"] = "",
+	["Tame {npc:254588}"] = "Domestica a {npc:254588}",
 
 	-- Step 14: Ornery Galestrider
 	-- {spell:2641} Dismiss Pet · {area:16626} Gustberry Lowlands · {area:16638} Valanaar
 	-- plural, as words: Ornery Galestriders = {npc:251707} Ornery Galestrider
-	["Dismiss the crawler first (right-click the pet portrait, {spell:2641}). Ornery Galestriders graze in the {area:16626}, the fields a short walk west and south-west of {area:16638}."] = "",
+	["Dismiss the crawler first (right-click the pet portrait, {spell:2641}). Ornery Galestriders graze in the {area:16626}, the fields a short walk west and south-west of {area:16638}."] = "Despide primero al crawler (clic derecho en el retrato de la mascota, {spell:2641}). Los Zancavientos ariscos pastan en {area:16626}, los campos a poca distancia al oeste y suroeste de {area:16638}.",
 	-- {item:15908} Taming Rod
-	["Use the {item:15908} on a living galestrider"] = "",
+	["Use the {item:15908} on a living galestrider"] = "Usa {item:15908} en un zancavientos vivo",
 	-- {npc:251707} Ornery Galestrider
-	["Tame {npc:251707}"] = "",
+	["Tame {npc:251707}"] = "Domestica a {npc:251707}",
 
 	-- Step 15: Vuldren Alpha
 	-- {area:16626} Gustberry Lowlands
 	-- plural, as words: Vuldren Alphas = {npc:250874} Vuldren Alpha
-	["Dismiss the galestrider. Vuldren Alphas hunt in the same {area:16626}, a little further south."] = "",
+	["Dismiss the galestrider. Vuldren Alphas hunt in the same {area:16626}, a little further south."] = "Despide al zancavientos. Los Alfas Vuldren cazan en el mismo {area:16626}, un poco más al sur.",
 	-- {item:15908} Taming Rod
-	["Use the {item:15908} on a living alpha"] = "",
+	["Use the {item:15908} on a living alpha"] = "Usa {item:15908} en un alfa vivo",
 	-- {npc:250874} Vuldren Alpha
-	["Tame {npc:250874}"] = "",
+	["Tame {npc:250874}"] = "Domestica a {npc:250874}",
 	-- {npc:254411} Quel'dora Quickgale · {spell:5149} Beast Training
-	["{npc:254411}, beside her: {spell:5149}"] = "",
+	["{npc:254411}, beside her: {spell:5149}"] = "{npc:254411}, a su lado: {spell:5149}",
 
 	-- Step 16: Your first pet
-	["Your first pet"] = "",
+	["Your first pet"] = "Tu primera mascota",
 	-- {spell:1515} Tame Beast · {spell:17253} Bite
-	["{spell:1515} works like the rod: a beast of your level or lower, a channel you must not move during, the beast hitting you all the while. A pet keeps the level you tame it at and levels up with you; it can never be above your level, so tame one close to yours. Each family has its own ability on Forever (a boar's Charge, for example). For levelling, a cat hits hardest (Claw and {spell:17253}) and a boar takes more punishment."] = "",
-	["Tame a beast of your level to keep"] = "",
+	["{spell:1515} works like the rod: a beast of your level or lower, a channel you must not move during, the beast hitting you all the while. A pet keeps the level you tame it at and levels up with you; it can never be above your level, so tame one close to yours. Each family has its own ability on Forever (a boar's Charge, for example). For levelling, a cat hits hardest (Claw and {spell:17253}) and a boar takes more punishment."] = "{spell:1515} funciona como la vara: una bestia de tu nivel o menor, un canalizado durante el cual no debes moverte, con la bestia golpeándote todo el tiempo. Una mascota conserva el nivel al que la domesticas y sube de nivel contigo; nunca puede superar tu nivel, así que domestica una cercana al tuyo. Cada familia tiene su propia habilidad en Forever (la Carga de un jabalí, por ejemplo). Para subir de nivel, un felino golpea más fuerte (Garra y {spell:17253}) y un jabalí aguanta más castigo.",
+	["Tame a beast of your level to keep"] = "Domestica una bestia de tu nivel para quedártela",
 	-- {area:362} Razor Hill · {zone:1411} Durotar · {area:367} Sen'jin Village · {zone:1454} Orgrimmar · {zone:1413} Barrens
 	-- plural, as words: Durotar Tigers = {npc:3121} Durotar Tiger · Venomtail Scorpids = {npc:3127} Venomtail Scorpid
-	["Near {area:362}: Durotar Tigers (cats, level 7-8) roam the south of {zone:1411}, from {area:367} down the coast; Venomtail Scorpids (9-10) the north-west toward {zone:1454}; at 11-12, Savannah Huntresses (cats) prowl the plains around the Crossroads in the {zone:1413}."] = "",
+	["Near {area:362}: Durotar Tigers (cats, level 7-8) roam the south of {zone:1411}, from {area:367} down the coast; Venomtail Scorpids (9-10) the north-west toward {zone:1454}; at 11-12, Savannah Huntresses (cats) prowl the plains around the Crossroads in the {zone:1413}."] = "Cerca de {area:362}: los Tigres de Durotar (felinos, nivel 7-8) rondan el sur de {zone:1411}, desde {area:367} por la costa; los Escórpidos Venocola (9-10) el noroeste hacia {zone:1454}; a nivel 11-12, las Cazadoras de la sabana (felinos) acechan las llanuras alrededor de El Cruce en {zone:1413}.",
 	-- {zone:1412} Mulgore · {zone:1413} Barrens
 	-- plural, as words: Flatland Prowlers = {npc:3566} Flatland Prowler · Prairie Wolf Alphas = {npc:2960} Prairie Wolf Alpha
-	["Near Bloodhoof: Flatland Prowlers (cats, level 9) and Prairie Wolf Alphas (wolves, 9-10) roam the plains of northern {zone:1412}; at 11-12, Savannah Huntresses (cats) prowl around the Crossroads in the {zone:1413}."] = "",
+	["Near Bloodhoof: Flatland Prowlers (cats, level 9) and Prairie Wolf Alphas (wolves, 9-10) roam the plains of northern {zone:1412}; at 11-12, Savannah Huntresses (cats) prowl around the Crossroads in the {zone:1413}."] = "Cerca de Bloodhoof: los Merodeadores de las estepas (felinos, nivel 9) y los Lobos alfa de pradera (lobos, 9-10) rondan las llanuras del norte de {zone:1412}; a nivel 11-12, las Cazadoras de la sabana (felinos) acechan alrededor de El Cruce en {zone:1413}.",
 	-- {area:16638} Valanaar · {area:16626} Gustberry Lowlands · {zone:2521} Zephras Isle
 	-- plural, as words: Vuldren Alphas = {npc:250874} Vuldren Alpha · Shriekling Matriarchs = {npc:253283} Shriekling Matriarch · Shadowgale Urseras = {npc:250927} Shadowgale Ursera
-	["Near {area:16638}: Vuldren Alphas (level 10), the beast of your last practice tame, hunt the {area:16626}; Shriekling Matriarchs (raptors, level 9) nest just west of {area:16638}; Shadowgale Urseras (bears, 10-11) roam the north of {zone:2521}."] = "",
+	["Near {area:16638}: Vuldren Alphas (level 10), the beast of your last practice tame, hunt the {area:16626}; Shriekling Matriarchs (raptors, level 9) nest just west of {area:16638}; Shadowgale Urseras (bears, 10-11) roam the north of {zone:2521}."] = "Cerca de {area:16638}: los Alfas Vuldren (nivel 10), la bestia de tu última domesticación de práctica, cazan en {area:16626}; las Shriekling Matriarchs (raptores, nivel 9) anidan justo al oeste de {area:16638}; las Shadowgale Urseras (osos, 10-11) rondan el norte de {zone:2521}.",
 	-- {spell:1584} Feed Pet · {npc:6928} Innkeeper Grosk · {area:362} Razor Hill · {npc:3025} Kaga Mistrunner · {zone:1456} Thunder Bluff · {zone:2521} Zephras Isle
-	["{spell:1584}: open your spellbook, cast {spell:1584} and click a food your pet's family eats (the pet's tooltip lists them: cats eat meat and fish, boars almost anything). Raw meat looted from beasts counts. To buy: Grimtak the butcher and {npc:6928} in {area:362} sell meat, {npc:3025} in {zone:1456} and the innkeepers on {zone:2521} too; Bloodhoof's innkeeper and bakers sell bread. Food near the pet's level makes it happiest; much lower food gives about half. You cannot feed in combat."] = "",
-	["Happiness: the face on the pet frame. An unhappy pet does three quarters of its damage, a happy one a quarter more. Happiness drains slowly, faster when the pet dies; a pet left unhappy too long can run away."] = "",
+	["{spell:1584}: open your spellbook, cast {spell:1584} and click a food your pet's family eats (the pet's tooltip lists them: cats eat meat and fish, boars almost anything). Raw meat looted from beasts counts. To buy: Grimtak the butcher and {npc:6928} in {area:362} sell meat, {npc:3025} in {zone:1456} and the innkeepers on {zone:2521} too; Bloodhoof's innkeeper and bakers sell bread. Food near the pet's level makes it happiest; much lower food gives about half. You cannot feed in combat."] = "{spell:1584}: abre tu libro de hechizos, lanza {spell:1584} y haz clic en un alimento que coma la familia de tu mascota (la descripción de la mascota los enumera: los felinos comen carne y pescado, los jabalíes casi cualquier cosa). La carne cruda del botín de bestias cuenta. Para comprar: Grimtak el carnicero y {npc:6928} en {area:362} venden carne, {npc:3025} en {zone:1456} y los taberneros de {zone:2521} también; el tabernero y los panaderos de Bloodhoof venden pan. La comida cercana al nivel de la mascota la pone más contenta; la de nivel mucho más bajo da la mitad. No puedes alimentar en combate.",
+	["Happiness: the face on the pet frame. An unhappy pet does three quarters of its damage, a happy one a quarter more. Happiness drains slowly, faster when the pet dies; a pet left unhappy too long can run away."] = "Felicidad: la cara en el marco de la mascota. Una mascota descontenta hace tres cuartos de su daño, una feliz un cuarto más. La felicidad baja lentamente, más rápido cuando la mascota muere; una mascota descontenta demasiado tiempo puede huir.",
 	-- {spell:5149} Beast Training
-	["Loyalty grows with time and kills. Each loyalty rank raises the training points you spend in {spell:5149} (pet level times loyalty rank minus one)."] = "",
+	["Loyalty grows with time and kills. Each loyalty rank raises the training points you spend in {spell:5149} (pet level times loyalty rank minus one)."] = "La lealtad crece con el tiempo y las muertes. Cada rango de lealtad aumenta los puntos de entrenamiento que gastas en {spell:5149} (nivel de la mascota por rango de lealtad menos uno).",
 	-- {spell:5149} Beast Training · {npc:9987} Shoja'my · {area:362} Razor Hill · {npc:265756} Genn Fairweather · {zone:2521} Zephras Isle · {npc:9988} Xon'cha · {zone:1454} Orgrimmar
-	["{spell:5149} (spellbook, General tab) teaches your current pet the abilities you know. To learn a new ability or rank: leave your pet with a stable master ({npc:9987} in {area:362}, Seikwa at Bloodhoof, {npc:265756} on {zone:2521}, {npc:9988} in {zone:1454}), tame a beast that has it (its pet spellbook tab shows what it knows), use the ability in fights until the game says you learned it, then take your own pet back and teach it with {spell:5149}. A pet holds four active abilities at most."] = "",
+	["{spell:5149} (spellbook, General tab) teaches your current pet the abilities you know. To learn a new ability or rank: leave your pet with a stable master ({npc:9987} in {area:362}, Seikwa at Bloodhoof, {npc:265756} on {zone:2521}, {npc:9988} in {zone:1454}), tame a beast that has it (its pet spellbook tab shows what it knows), use the ability in fights until the game says you learned it, then take your own pet back and teach it with {spell:5149}. A pet holds four active abilities at most."] = "{spell:5149} (libro de hechizos, pestaña General) enseña a tu mascota actual las habilidades que conoces. Para aprender una habilidad o rango nuevo: deja tu mascota con un maestro de establos ({npc:9987} en {area:362}, Seikwa en Bloodhoof, {npc:265756} en {zone:2521}, {npc:9988} en {zone:1454}), doma una bestia que la tenga (la pestaña de hechizos de mascota muestra lo que sabe), usa la habilidad en combate hasta que el juego diga que la aprendiste, luego recupera tu mascota y enséñasela con {spell:5149}. Una mascota tiene cuatro habilidades activas como máximo.",
 	-- {spell:1853} Growl · {area:362} Razor Hill · {npc:3688} Reban Freerunner · {npc:10088} Xao'tsu · {zone:1454} Orgrimmar · {object:172958} Valley of Honor · {npc:10086} Hesuwa Thunderhorn · {zone:1456} Thunder Bluff · {area:1641} Hunter Rise · {npc:254411} Quel'dora Quickgale · {area:16638} Valanaar · {area:75} Stonard · {object:3202} Grom'gol (no name in this language: may be words)
-	["Pet trainers sell {spell:1853} ranks and resistances. Horde: Harruk in {area:362}, {npc:3688} at Bloodhoof, {npc:10088} in {zone:1454}'s {object:172958}, {npc:10086} on {zone:1456}'s {area:1641}, {npc:254411} in {area:16638}, later Grokor in {area:75} and Zudd at {object:3202}."] = "",
+	["Pet trainers sell {spell:1853} ranks and resistances. Horde: Harruk in {area:362}, {npc:3688} at Bloodhoof, {npc:10088} in {zone:1454}'s {object:172958}, {npc:10086} on {zone:1456}'s {area:1641}, {npc:254411} in {area:16638}, later Grokor in {area:75} and Zudd at {object:3202}."] = "Los instructores de mascotas venden rangos de {spell:1853} y resistencias. Horda: Harruk en {area:362}, {npc:3688} en Bloodhoof, {npc:10088} en {object:172958} de {zone:1454}, {npc:10086} en {area:1641} de {zone:1456}, {npc:254411} en {area:16638}, más adelante Grokor en {area:75} y Zudd en {object:3202}.",
 	-- {spell:883} Call Pet · {spell:2641} Dismiss Pet · {spell:982} Revive Pet · {spell:136} Mend Pet
-	["{spell:883}, {spell:2641} and {spell:982} are in your spellbook now; {spell:136} comes from your trainer at 12. A dead pet needs {spell:982}; one that is away more than about 100 yards is dismissed and comes back with {spell:883}."] = "",
+	["{spell:883}, {spell:2641} and {spell:982} are in your spellbook now; {spell:136} comes from your trainer at 12. A dead pet needs {spell:982}; one that is away more than about 100 yards is dismissed and comes back with {spell:883}."] = "{spell:883}, {spell:2641} y {spell:982} ya están en tu libro de hechizos; {spell:136} viene de tu instructor a nivel 12. Una mascota muerta necesita {spell:982}; una que se aleje más de unas 100 yardas es despedida y vuelve con {spell:883}.",
 }

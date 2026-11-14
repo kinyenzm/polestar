@@ -13,17 +13,17 @@ return {
 
 	-- Step 1: Seek out SI: 7
 	-- {npc:917} Keryn Sylvius · {area:87} Goldshire · {npc:332} Master Mathias Shaw · {zone:1453} Stormwind · {spell:921} Pick Pocket
-	["At 10 {npc:917}, the rogue trainer upstairs in the Lion's Pride Inn in {area:87}, gives you a package for {npc:332} in {zone:1453}. Train {spell:921} if you lack it: this chain needs it."] = "",
+	["At 10 {npc:917}, the rogue trainer upstairs in the Lion's Pride Inn in {area:87}, gives you a package for {npc:332} in {zone:1453}. Train {spell:921} if you lack it: this chain needs it."] = "A nivel 10, {npc:917}, el instructor de pícaros del piso de arriba de la Posada Lion's Pride en {area:87}, te da un paquete para {npc:332} en {zone:1453}. Aprende {spell:921} si no lo tienes: esta cadena lo necesita.",
 
 	-- Step 2: Master Mathias Shaw
 	-- {zone:1453} Stormwind · {object:2100} Old Town
-	["Head north to {zone:1453}. Shaw stands upstairs in the SI:7 building in {object:2100} (the quest says the Barracks; it means SI:7)."] = "",
+	["Head north to {zone:1453}. Shaw stands upstairs in the SI:7 building in {object:2100} (the quest says the Barracks; it means SI:7)."] = "Ve al norte a {zone:1453}. Shaw está arriba, en el edificio de SI:7 en {object:2100} (la misión dice Cuartel; se refiere a SI:7).",
 
 	-- Step 3: Defias Dockmaster
 	-- {npc:6846} Defias Dockmaster · {area:797} Jerod's Landing · {area:87} Goldshire · {spell:921} Pick Pocket · {spell:2070} Sap
-	["The {npc:6846} (level 10, a goblin) works in the dock house at {area:797}, on the river at Elwynn's southern edge, south of {area:87}. Stealth in and {spell:921} him from behind: the schedule never drops from his corpse. Do not open with {spell:2070} or a fight: he calls in three waves of bodyguards. Keep away from the fireplaces in the house; they burn you out of stealth. He is back 2 to 5 minutes after a death."] = "",
+	["The {npc:6846} (level 10, a goblin) works in the dock house at {area:797}, on the river at Elwynn's southern edge, south of {area:87}. Stealth in and {spell:921} him from behind: the schedule never drops from his corpse. Do not open with {spell:2070} or a fight: he calls in three waves of bodyguards. Keep away from the fireplaces in the house; they burn you out of stealth. He is back 2 to 5 minutes after a death."] = "{npc:6846} (nivel 10, un goblin) trabaja en la casa del muelle de {area:797}, en el río, en el extremo sur de Elwynn, al sur de {area:87}. Entra sigilosamente y usa {spell:921} contra él por la espalda: el itinerario nunca cae de su cadáver. No empieces con {spell:2070} ni con un combate: llama a tres oleadas de guardaespaldas. Aléjate de las chimeneas de la casa; te sacan del sigilo al quemarte. Reaparece de 2 a 5 minutos después de morir.",
 	-- {spell:921} Pick Pocket · {npc:6846} Defias Dockmaster · {item:7675} Defias Shipping Schedule
-	["{spell:921} the {npc:6846} for the {item:7675}"] = "",
+	["{spell:921} the {npc:6846} for the {item:7675}"] = "{spell:921} a {npc:6846} para obtener {item:7675}",
 
 	-- Step 4: Back to Mathias Shaw
 	["Back to Mathias Shaw"] = "Regresa con Mathias Shaw",
@@ -36,11 +36,11 @@ return {
 
 	-- Step 6: Hulfdan Blackbeard
 	-- {npc:5165} Hulfdan Blackbeard · {object:32383} Forlorn Cavern · {zone:1455} Ironforge
-	["{npc:5165} is in the {object:32383}, the rogue quarter in the north of {zone:1455}: go into the building with a shady dealer outside and down the stairs."] = "",
+	["{npc:5165} is in the {object:32383}, the rogue quarter in the north of {zone:1455}: go into the building with a shady dealer outside and down the stairs."] = "{npc:5165} está en {object:32383}, el barrio de los pícaros al norte de {zone:1455}: entra en el edificio con un traficante sospechoso afuera y baja por las escaleras.",
 
 	-- Step 7: Onin MacHammar
 	-- {area:133} Gnomeregan · {npc:6886} Onin MacHammar · {npc:1211} Leper Gnome
-	["Head west to {area:133}. Beside the road to its entrance stands a wooden spiral tower: {npc:6886} waits stealthed on the top platform, next to a level 10 {npc:1211}, so you only see him up close."] = "",
+	["Head west to {area:133}. Beside the road to its entrance stands a wooden spiral tower: {npc:6886} waits stealthed on the top platform, next to a level 10 {npc:1211}, so you only see him up close."] = "Ve al oeste a {area:133}. Junto al camino a su entrada hay una torre de madera en espiral: {npc:6886} espera sigiloso en la plataforma superior, junto a un {npc:1211} de nivel 10, así que solo lo ves de cerca.",
 
 	-- Step 8: Back to Hulfdan Blackbeard
 	-- {npc:5165} Hulfdan Blackbeard
@@ -48,17 +48,17 @@ return {
 
 	-- Step 9: The Apple Falls
 	-- {npc:3599} Jannok Breezesong · {area:186} Dolanaar · {npc:4163} Syurna · {zone:1457} Darnassus
-	["At 10 {npc:3599}, the rogue trainer in the {area:186} inn, gives you a rose for {npc:4163} in {zone:1457}. If you lose the rose, abandon the quest and take it again."] = "",
+	["At 10 {npc:3599}, the rogue trainer in the {area:186} inn, gives you a rose for {npc:4163} in {zone:1457}. If you lose the rose, abandon the quest and take it again."] = "A nivel 10, {npc:3599}, el instructor de pícaros de la posada de {area:186}, te da una rosa para {npc:4163} en {zone:1457}. Si pierdes la rosa, abandona la misión y acéptala de nuevo.",
 
 	-- Step 10: Syurna
 	-- {zone:1457} Darnassus · {npc:4163} Syurna · {area:1658} Cenarion Enclave
-	["Head west to {zone:1457}. {npc:4163} is below ground in the {area:1658}: the way down is the opening at the foot of the split tree left of the Arch Druid's tree, near the nightsaber trainer. Her map marker shows above ground."] = "",
+	["Head west to {zone:1457}. {npc:4163} is below ground in the {area:1658}: the way down is the opening at the foot of the split tree left of the Arch Druid's tree, near the nightsaber trainer. Her map marker shows above ground."] = "Ve al oeste a {zone:1457}. {npc:4163} está bajo tierra en {area:1658}: la bajada es la abertura al pie del árbol partido a la izquierda del árbol del Archidruida, cerca del instructor de sables de la noche. Su marcador en el mapa se muestra sobre la superficie.",
 
 	-- Step 11: Sethir the Ancient
 	-- {npc:6909} Sethir the Ancient · {area:264} Oracle Glade · {spell:2983} Sprint
-	["{npc:6909} (level 12 satyr) lives out on a great branch north of the {area:264}: go through the V-shaped gap in the wall north of the glade and out along the branch. Pick his pocket for the journal; killing him does not give it, and a fight brings out three Minions of Sethir. He walks between the main branch and a side branch: wait stealthed at the far end of the main branch and pick him from behind when he comes back. Then {spell:2983} away. He is back 8 1/2 minutes after a death."] = "",
+	["{npc:6909} (level 12 satyr) lives out on a great branch north of the {area:264}: go through the V-shaped gap in the wall north of the glade and out along the branch. Pick his pocket for the journal; killing him does not give it, and a fight brings out three Minions of Sethir. He walks between the main branch and a side branch: wait stealthed at the far end of the main branch and pick him from behind when he comes back. Then {spell:2983} away. He is back 8 1/2 minutes after a death."] = "{npc:6909} (sátiro de nivel 12) vive en una gran rama al norte de {area:264}: pasa por el hueco en forma de V del muro al norte del claro y sal por la rama. Róbale el diario; matarlo no lo da, y una pelea trae a tres Esbirros de Sethir. Camina entre la rama principal y una rama lateral: espera sigiloso en el extremo lejano de la rama principal y róbale por la espalda cuando vuelva. Luego {spell:2983} para alejarte. Reaparece 8 1/2 minutos después de morir.",
 	-- {item:7737} Sethir's Journal
-	["Pick Pocket Sethir the Ancient for {item:7737}"] = "",
+	["Pick Pocket Sethir the Ancient for {item:7737}"] = "Roba a Sethir el Ancestro para obtener {item:7737}",
 
 	-- Step 12: Back to Syurna
 	-- {npc:4163} Syurna

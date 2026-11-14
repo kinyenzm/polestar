@@ -8,7 +8,7 @@
 return {
 	-- Step 1: To Deepwater Tavern
 	-- {area:2104} Deepwater Tavern
-	["To {area:2104}"] = "",
+	["To {area:2104}"] = "A {area:2104}",
 
 	-- Step 2: Angerfang Encampment
 	-- {area:1036} Angerfang Encampment · {object:671518} Tattered Spellbook (no name in this language: may be words)
@@ -32,7 +32,7 @@ return {
 
 	-- Step 8: Dragonmaw Gates: kill these as you meet them
 	-- {area:1038} Dragonmaw Gates
-	["{area:1038}: kill these as you meet them"] = "",
+	["{area:1038}: kill these as you meet them"] = "{area:1038}: mátalos cuando te los encuentres",
 	-- {area:1036} Angerfang Encampment · {quest:98283} Carnage · {area:205} Dun Modr
 	["The whelps nest in the hills north-east of the {area:1036}; {quest:98283} prowls further north, and the Razormaw raptors hunt the highlands on the way north to {area:205}.\n{quest:98283} is elite: grouping up is advised."] = "",
 
@@ -82,17 +82,17 @@ return {
 
 	-- Step 18: The Cache of Explosives
 	-- {object:2704} Cache of Explosives
-	["The {object:2704}"] = "",
+	["The {object:2704}"] = "{object:2704}",
 	-- {area:880} Thandol Span
 	-- plural, as words: Dark Irons = {object:147516} Dark Iron
 	["Over the {area:880}: the Dark Irons' cache of explosives sits by its Arathi end."] = "",
 
 	-- Step 19: Waterlogged Envelope
-	["Underwater"] = "",
+	["Underwater"] = "Bajo el agua",
 
 	-- Step 20: Rhag Garmason again
 	-- {npc:1075} Rhag Garmason
-	["{npc:1075} again"] = "",
+	["{npc:1075} again"] = "{npc:1075} otra vez",
 	-- {area:205} Dun Modr
 	["Back over the span and down the road through {area:205} on the way south."] = "",
 	-- {npc:2700} Captain Nials · {area:320} Refuge Pointe
@@ -109,7 +109,7 @@ return {
 
 	-- Step 24: Menethil Harbor
 	["West along the road to Menethil."] = "Al oeste por el camino hasta Menethil.",
-	["On the top floor"] = "",
+	["On the top floor"] = "En el piso superior",
 	-- {npc:4455} Red Jack Flint · {quest:1132} Fiora Longears
 	["{npc:4455}, by the keep's door: for {quest:1132} in Theramore, in the next guide"] = "",
 
@@ -126,7 +126,7 @@ return {
 	["For King Magni in {zone:1455}, at the end of this guide"] = "Para el rey Magni en {zone:1455}, al final de esta guía",
 
 	-- Step 27: Level 30.8
-	["Level 30.8"] = "",
+	["Level 30.8"] = "Nivel 30.8",
 	-- {quest:474} Defeat Nek'rosh · {area:133} Gnomeregan · {area:796} Scarlet Monastery
 	["Skipped {quest:474} and short of 30.8? Kill the Bluegill murlocs on the coast south of Menethil until level 30.8. Or, with a group, run the {area:133} dungeon or the {area:796} dungeon (Graveyard) instead."] = "",
 	-- {npc:1418} Bluegill Raider
@@ -138,7 +138,7 @@ return {
 
 	-- Step 30: Southshore
 	-- {npc:2711} Phin Odelic · {npc:2430} Chef Jessen · {npc:2382} Darren Malvew · {npc:2381} Micha Yance · {npc:2438} Bartolo Ginsetti · {npc:2366} Barkeep Kelly · {quest:98463} Talk of the Town
-	["Off the boat, walk up the pier into town: {npc:2711} and Lieutenant Farren stand by the inn, {npc:2430} upstairs, {npc:2382} east of it; the flight master is at the north end, {npc:2381} and {npc:2438} between her and the inn, Maleb in the town hall at the west side.\n{npc:2366} may not offer {quest:98463} on Forever: if she doesn't, skip it."] = "",
+	["Off the boat, walk up the pier into town: {npc:2711} and Lieutenant Farren stand by the inn, {npc:2430} upstairs, {npc:2382} east of it; the flight master is at the north end, {npc:2381} and {npc:2438} between her and the inn, Maleb in the town hall at the west side.\n{npc:2366} may not offer {quest:98463} on Forever: if she doesn't, skip it."] = "Al bajar del barco, sube por el muelle hasta el pueblo: {npc:2711} y el teniente Farren están junto a la posada, {npc:2430} arriba, {npc:2382} al este de ella; el maestro de vuelo está en el extremo norte, {npc:2381} y {npc:2438} entre ella y la posada, y Maleb en el ayuntamiento, en el lado oeste.\nPuede que {npc:2366} no ofrezca {quest:98463} en Forever: si no lo hace, sáltala.",
 	-- {npc:2711} Phin Odelic
 	["{npc:2711}: his trail leads to Arathi"] = "{npc:2711}: su rastro lleva a Tierras Altas de Arathi",
 	-- {npc:2228} Lieutenant Farren Orinelle
@@ -158,7 +158,7 @@ return {
 	-- {npc:2438} Bartolo Ginsetti · {item:3719} Hillman's Cloak · {skill:165} Leatherworking · {item:2997} Bolt of Woolen Cloth · {skill:197} Tailoring
 	["{npc:2438} makes a yeti fur cloak for anyone who brings a {item:3719} ({skill:165}) and a {item:2997} ({skill:197}); no vendor sells either, so this step shows only when you carry both."] = "",
 	-- {npc:2438} Bartolo Ginsetti · {item:3719} Hillman's Cloak · {item:2997} Bolt of Woolen Cloth
-	["{npc:2438}, between the flight master and the inn: he wants a {item:3719} and a {item:2997} too"] = "",
+	["{npc:2438}, between the flight master and the inn: he wants a {item:3719} and a {item:2997} too"] = "{npc:2438}, entre el maestro de vuelo y la posada: también quiere {item:3719} y {item:2997}",
 
 	-- Step 32: Torn Fin murlocs
 	["Torn Fin murlocs"] = "Múrlocs Rompeanca",
@@ -167,7 +167,7 @@ return {
 
 	-- Step 33: Farren
 	["Farren"] = "Farren",
-	["Inside"] = "",
+	["Inside"] = "Adentro",
 
 	-- Step 34: Murloc heads
 	["Murloc heads"] = "Cabezas de múrloc",
@@ -184,7 +184,7 @@ return {
 
 	-- Step 39: Southshore
 	-- {npc:251493} Captain McManus · {quest:98059} Hillsbrad's Hoard · {item:279386} Sealed Company Request · {area:287} Hillsbrad · {area:271} Southshore
-	["{npc:251493} stands north-west of the flight master, on the way north to the yeti cave.\n{quest:98059}: {npc:251493} hands you a {item:279386} for the {area:287} council, in the farms west of {area:271}; you deliver it after the Syndicate camp."] = "",
+	["{npc:251493} stands north-west of the flight master, on the way north to the yeti cave.\n{quest:98059}: {npc:251493} hands you a {item:279386} for the {area:287} council, in the farms west of {area:271}; you deliver it after the Syndicate camp."] = "{npc:251493} está al noroeste del maestro de vuelo, de camino al norte hacia la cueva de los yetis.\n{quest:98059}: {npc:251493} te da {item:279386} para el consejo de {area:287}, en las granjas al oeste de {area:271}; lo entregas después del campamento del Sindicato.",
 
 	-- Step 40: Yeti cave
 	["Yeti cave"] = "Cueva de los yetis",
@@ -218,11 +218,11 @@ return {
 	-- {area:1537} Ironforge
 	["Fly to {area:1537}"] = "Vuela a {area:1537}",
 	-- {area:271} Southshore
-	["{area:271} flight master"] = "",
+	["{area:271} flight master"] = "Maestro de vuelo de {area:271}",
 
 	-- Step 48: Hall of Explorers
 	-- {npc:1356} Prospector Stormpike · {npc:2916} Historian Karnik · {npc:5637} Roetten Stonehammer · {object:32356} Hall of Explorers (no name in this language: may be words)
-	["{npc:1356}, {npc:2916} and {npc:5637} stand in the {object:32356}, north-east of the flight master."] = "",
+	["{npc:1356}, {npc:2916} and {npc:5637} stand in the {object:32356}, north-east of the flight master."] = "{npc:1356}, {npc:2916} y {npc:5637} están en {object:32356}, al noreste del maestro de vuelo.",
 	["Level 30 and 32 spells"] = "Hechizos de nivel 30 y 32",
 
 	-- Step 50: Sara Balloo
@@ -237,7 +237,7 @@ return {
 	-- {zone:1453} Stormwind
 	["Fly to {zone:1453}"] = "Vuela a {zone:1453}",
 	-- {zone:1455} Ironforge
-	["{zone:1455} flight master"] = "",
+	["{zone:1455} flight master"] = "Maestro de vuelo de {zone:1455}",
 
 	-- Step 54: Elling Trias
 	-- {object:2096} Trade District

@@ -32,9 +32,9 @@ return {
 	-- {zone:1418} Badlands · {area:340} Kargath · {zone:1427} Searing Gorge
 	["The way in on foot is from the western {zone:1418}: the path by {area:340} climbs west into the {zone:1427}."] = "",
 	-- {area:144} Thelsamar · {zone:1432} Loch Modan · {zone:1418} Badlands · {area:340} Kargath
-	["Fly to {area:144} and ride south through {zone:1432} into the {zone:1418}, then west to {area:340} (Horde guards)."] = "",
+	["Fly to {area:144} and ride south through {zone:1432} into the {zone:1418}, then west to {area:340} (Horde guards)."] = "Vuela a {area:144} y cabalga al sur a través de {zone:1432} hasta {zone:1418}, y luego al oeste hasta {area:340} (guardias de la Horda).",
 	-- {area:340} Kargath · {zone:1418} Badlands
-	["Fly to {area:340} in the {zone:1418}."] = "",
+	["Fly to {area:340} in the {zone:1418}."] = "Vuela a {area:340} en {zone:1418}.",
 	-- {area:1446} Thorium Point · {npc:2941} Lanie Reed
 	["Flight path here: {area:1446} ({npc:2941})."] = "Ruta de vuelo aquí: {area:1446} ({npc:2941}).",
 	-- {area:1446} Thorium Point
@@ -67,9 +67,9 @@ return {
 	-- Step 9: Western Plaguelands (1/2)
 	["13 areas to discover here, levels 46-57."] = "13 zonas por descubrir aquí, niveles 46-57.",
 	-- {area:3197} Chillwind Camp · {area:271} Southshore · {zone:1416} Alterac Mountains · {zone:1422} Western Plaguelands
-	["Fly to {area:3197} if you have it; otherwise fly to {area:271} and ride north through the {zone:1416} to {area:3197} in southern {zone:1422}."] = "",
+	["Fly to {area:3197} if you have it; otherwise fly to {area:271} and ride north through the {zone:1416} to {area:3197} in southern {zone:1422}."] = "Vuela a {area:3197} si ya tienes esa ruta de vuelo; si no, vuela a {area:271} y cabalga al norte a través de {zone:1416} hasta {area:3197}, en el sur de {zone:1422}.",
 	-- {area:272} Tarren Mill · {zone:1416} Alterac Mountains · {zone:1422} Western Plaguelands · {zone:1420} Tirisfal Glades · {area:813} The Bulwark
-	["Fly to {area:272} and ride north through the {zone:1416} into southern {zone:1422}, or go east from {zone:1420} past {area:813}."] = "",
+	["Fly to {area:272} and ride north through the {zone:1416} into southern {zone:1422}, or go east from {zone:1420} past {area:813}."] = "Vuela a {area:272} y cabalga al norte a través de {zone:1416} hasta el sur de {zone:1422}, o ve al este desde {zone:1420} pasando {area:813}.",
 	-- {area:3197} Chillwind Camp · {npc:12596} Bibilfaz Featherwhistle
 	["Flight path here: {area:3197} ({npc:12596})."] = "Ruta de vuelo aquí: {area:3197} ({npc:12596}).",
 
