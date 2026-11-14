@@ -111,7 +111,7 @@ return {
 	-- plural, as words: Scarlet Zealots = {npc:1537} Scarlet Zealot
 	["{npc:257648} needs 10 {item:2589}. Humanoids drop it: the Scarlet Zealots and Friars of the glades about three kills in ten. The Undercity Auction House sells it too."] = "{npc:257648} necesita 10 {item:2589}. Los humanoides los sueltan: los Zelotes Escarlata y los Frailes de los claros, unas tres de cada diez muertes. La Casa de Subastas de Entrañas también los vende.",
 	-- {item:2589} Linen Cloth
-	["{item:2589} x10"] = "",
+	["{item:2589} x10"] = "{item:2589} x10",
 
 	-- Step 20: The Symbol of Life
 	-- {item:6866} Symbol of Life

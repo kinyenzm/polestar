@@ -101,7 +101,7 @@ return {
 	-- {item:280347} Shadowgale Squirrel
 	["Revered opens the {item:280347}, a companion pet, for 50s. Exalted is 21000 more: 21 turn-ins (105 ears, about 280 kills) up to level 18, 105 turn-ins (525 ears) from level 22."] = "Reverenciado abre {item:280347}, una mascota de compañía, por 50p. Exaltado son 21000 más: 21 entregas (105 orejas, unas 280 muertes) hasta el nivel 18, 105 entregas (525 orejas) desde el nivel 22.",
 	-- {item:280347} Shadowgale Squirrel
-	["{item:280347}, 50s"] = "",
+	["{item:280347}, 50s"] = "{item:280347}, 50s",
 
 	-- Step 16: The Nightclaw Mantle
 	-- {item:280363} Nightclaw Mantle

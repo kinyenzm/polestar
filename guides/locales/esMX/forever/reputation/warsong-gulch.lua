@@ -60,7 +60,7 @@ return {
 	-- {item:19578} Berserker Bracers · {item:19582} Windtalker's Wristguards · {item:19587} Forest Stalker's Bracers · {item:19595} Dryad's Wrist Bindings · {item:19506} Silverwing Battle Tabard
 	["Exalted gives the Legacy Point \"Master of Warsong Gulch\" and opens the epics: {item:19578} (plate), {item:19582} (mail), {item:19587} (leather) and {item:19595} (cloth) for levels 40, 50 and 60 (2g47s to 12g11s), and the level 60 Sentinel's legs in plate, lamellar, chain, leather, lizardhide and silk (16g63s to 24g22s). The {item:19506} is 5g."] = "Exaltado da el Punto de Legado «Maestro de la Garganta Grito de Guerra» y abre los épicos: {item:19578} (placas), {item:19582} (mallas), {item:19587} (cuero) y {item:19595} (paño) para los niveles 40, 50 y 60 (2o47p a 12o11p), y las piernas de Centinela de nivel 60 en placas, lamelar, malla, cuero, piel de lagarto y seda (16o63p a 24o22p). {item:19506} cuesta 5o.",
 	-- {item:19506} Silverwing Battle Tabard
-	["{item:19506}, 5g"] = "",
+	["{item:19506}, 5g"] = "{item:19506}, 5g",
 
 	-- Step 8: Captain Shatterskull
 	-- {zone:1460} Warsong Gulch · {area:1599} Mor'shan Base Camp · {npc:14781} Captain Shatterskull
@@ -108,7 +108,7 @@ return {
 	-- {item:19578} Berserker Bracers · {item:19582} Windtalker's Wristguards · {item:19587} Forest Stalker's Bracers · {item:19595} Dryad's Wrist Bindings · {item:19505} Warsong Battle Tabard
 	["Exalted gives the Legacy Point \"Master of Warsong Gulch\" and opens the epics: {item:19578} (plate), {item:19582} (mail), {item:19587} (leather) and {item:19595} (cloth) for levels 40, 50 and 60 (2g47s to 12g11s), and the level 60 Outrider's legs in plate, chain, mail, leather, lizardhide and silk (16g57s to 25g33s). The {item:19505} is 5g."] = "Exaltado da el Punto de Legado «Maestro de la Garganta Grito de Guerra» y abre los épicos: {item:19578} (placas), {item:19582} (mallas), {item:19587} (cuero) y {item:19595} (paño) para los niveles 40, 50 y 60 (2o47p a 12o11p), y las piernas de Jinete de nivel 60 en placas, malla, mallas, cuero, piel de lagarto y seda (16o57p a 25o33p). {item:19505} cuesta 5o.",
 	-- {item:19505} Warsong Battle Tabard
-	["{item:19505}, 5g"] = "",
+	["{item:19505}, 5g"] = "{item:19505}, 5g",
 
 	-- No longer in the guide (its English changed or it went away): reuse or delete.
 	-- ["Exalted with the {faction:889} earns a Legacy Point."] = "Ser Exaltado con {faction:889} otorga un Punto de legado.",

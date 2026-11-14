@@ -36,7 +36,7 @@ return {
 	-- plural, as words: Flesh Golems = {npc:1805} Flesh Golem · Skeletal Guardians = {npc:10390} Skeletal Guardian · Dark Summoners = {npc:8551} Dark Summoner
 	["Kill the Scourge of the {zone:1422} with the Commission on: skeletons, ghouls and cultists (level 50-58) drop a {item:12840} about two kills in five. {area:197}, just east of {area:3197} around {area:196}, is the closest farm. Avoid the Flesh Golems that patrol the fields; Skeletal Guardians cast {spell:120} and {spell:1449} up close, Dark Summoners run for help at low health."] = "Mata a la Plaga de {zone:1422} con la Comisión puesta: esqueletos, necrófagos y cultistas (nivel 50-58) sueltan {item:12840} en unas dos de cada cinco muertes. {area:197}, justo al este de {area:3197} alrededor de {area:196}, es la zona más cercana. Evita a los Gólems de carne que patrullan los campos; los Guardianes esqueléticos lanzan {spell:120} y {spell:1449} de cerca, los Invocadores oscuros corren a pedir ayuda con poca salud.",
 	-- {item:12840} Minion's Scourgestone
-	["{item:12840} x20"] = "",
+	["{item:12840} x20"] = "{item:12840} x20",
 
 	-- Step 6: High Priest Thel'danis
 	-- {npc:1854} High Priest Thel'danis · {area:196} Uther's Tomb · {area:197} Sorrow Hill · {item:20612} Inert Scourgestone

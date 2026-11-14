@@ -68,7 +68,7 @@ return {
 	-- {npc:13841} Lieutenant Haggerdin · {item:17354} Master Ryson's All Seeing Eye · {npc:12159} Korrak the Bloodrager · {item:19032} Stormpike Battle Tabard · {npc:13217} Thanthaldis Snowgleam
 	["Friendly lets {npc:13841} upgrade your insignia: 100 reputation. Friendly to Honored is 6000 reputation. In Classic a full win paid 300 to 700 with its 3 marks; the Brigadier General keeps taking 3 marks for 100. Inside, {item:17354} (75, from the Winterax caves) repeats every game; {npc:12159} (200, when he appears in the middle of the valley) goes back to {npc:13841} here. Friendly opens the {item:19032} (1g) and the Superior Healing and Mana Draughts (5s) at {npc:13217} beside him."] = "Amistoso permite que {npc:13841} mejore tu insignia: 100 de reputación. De Amistoso a Honorable son 6000 de reputación. En Classic una victoria completa pagaba de 300 a 700 con sus 3 marcas; el Brigadier general sigue aceptando 3 marcas por 100. Adentro, {item:17354} (75, de las cuevas Hacha Invernal) se repite cada partida; {npc:12159} (200, cuando aparece en medio del valle) se entrega aquí a {npc:13841}. Amistoso abre {item:19032} (1g) y las Pociones de curación y de maná superiores (5s) con {npc:13217} a su lado.",
 	-- {item:19032} Stormpike Battle Tabard
-	["{item:19032}, 1g"] = "",
+	["{item:19032}, 1g"] = "{item:19032}, 1g",
 	-- {npc:15351} Alliance Brigadier General · {quest:8375} Remember Alterac Valley!
 	["{npc:15351}: {quest:8375} again, 100 for 3 marks"] = "{npc:15351}: {quest:8375} de nuevo, 100 por 3 marcas",
 
@@ -146,7 +146,7 @@ return {
 	-- {npc:13840} Warmaster Laggrond · {item:17354} Master Ryson's All Seeing Eye · {item:19031} Frostwolf Battle Tabard · {npc:13219} Jekyll Flandring
 	["Friendly lets {npc:13840} upgrade your insignia: 100 reputation. Friendly to Honored is 6000 reputation. In Classic a full win paid 300 to 700 with its 3 marks; the Warbringer keeps taking 3 marks for 100. Inside, {item:17354} (75, from the Winterax caves) repeats every game; The Legend of Korrak (200, when he appears in the middle of the valley) goes back to {npc:13840} here. Friendly opens the {item:19031} (1g) and the Superior Healing and Mana Draughts (5s) at {npc:13219} beside him."] = "Amistoso permite que {npc:13840} mejore tu insignia: 100 de reputación. De Amistoso a Honorable son 6000 de reputación. En Classic una victoria completa pagaba de 300 a 700 con sus 3 marcas; el Belicista sigue aceptando 3 marcas por 100. Adentro, {item:17354} (75, de las cuevas Hacha Invernal) se repite cada partida; La leyenda de Korrak (200, cuando aparece en medio del valle) se entrega aquí a {npc:13840}. Amistoso abre {item:19031} (1g) y las Pociones de curación y de maná superiores (5s) con {npc:13219} a su lado.",
 	-- {item:19031} Frostwolf Battle Tabard
-	["{item:19031}, 1g"] = "",
+	["{item:19031}, 1g"] = "{item:19031}, 1g",
 	-- {npc:15350} Horde Warbringer · {quest:8369} Invaders of Alterac Valley
 	["{npc:15350}: {quest:8369} again, 100 for 3 marks"] = "{npc:15350}: {quest:8369} de nuevo, 100 por 3 marcas",
 

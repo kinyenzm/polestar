@@ -36,7 +36,7 @@ return {
 	-- {npc:6174} Stephanie Turner · {object:2096} Trade District · {item:2589} Linen Cloth · {zone:1436} Westfall
 	["{npc:6174} stands at a corner in the middle of the {object:2096}, outside a general goods store. She wants 10 {item:2589}: humanoids drop it (Riverpaw gnolls in {zone:1436} about every other kill, Defias and kobolds a little less), or buy it at the Auction House a few steps away in the {object:2096}."] = "{npc:6174} está en una esquina en medio de {object:2096}, afuera de una tienda de artículos generales. Quiere 10 {item:2589}: los humanoides lo sueltan (gnolls Zarparrío en {zone:1436} casi cada dos muertes, Defias y kobolds un poco menos), o cómpralo en la casa de subastas a pocos pasos en {object:2096}.",
 	-- {item:2589} Linen Cloth
-	["{item:2589} x10"] = "",
+	["{item:2589} x10"] = "{item:2589} x10",
 
 	-- Step 7: The Symbol of Life
 	-- {item:6866} Symbol of Life
