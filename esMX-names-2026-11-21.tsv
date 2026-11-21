@@ -1,0 +1,1007 @@
+kind	id	english	pack (next)	client	web /mx/	client source	verdict	baseline
+npc	68	Stormwind City Guard	Guardia urbano de Ventormenta	Guardia de la ciudad de Ventormenta	Guardia de la ciudad de Ventormenta	client-wdb	web = client	
+npc	94	Defias Cutpurse	Cortapurso Defias	Ratero Defias	Ratero Defias	client-learning	web = client	
+npc	219	Groundskeeper Lomar		Guardés Lomar	Guardés Lomar	client-learning	web = client	
+npc	620	Chicken	Gallina	Pollo	Pollo	client-wdb	web = client	
+npc	857	Donal Osgood	Donal Bonmete	Donal Osbien	Donal Osbien	client-wdb	web = client	
+npc	923	Young Black Ravager	Nicroyermo joven	Devastador negro joven	Devastador negro joven	client-learning	web = client	
+npc	1138	Snow Tracker Wolf	Lobo rastreador de la nieve	Lobo rastreador de las nieves	Lobo rastreador de las nieves	client-wdb	web = client	
+npc	1151	Saltwater Crocolisk	Crocolisco Aguasalada	Crocolisco marino	Crocolisco marino	client-learning	web = client	
+npc	1194	Mountain Buzzard	Águila ratonera montés	Águila ratonera montesa	Águila ratonera montesa	client-wdb	web = client	
+npc	1258	Black Ravager Mastiff	Masadura Nicroyermo	Mastín devastador negro	Mastín devastador negro	client-learning	web = client	
+npc	1297	Lina Stover	Lina Paladare	Lina Hornillos	Lina Hornillos	client-wdb	web = client	
+npc	1536	Scarlet Missionary	Misionero Escarlata	Misionera Escarlata	Misionero Escarlata	client-learning	web = pack	
+npc	1765	Worg	Lupo	Huargo	Huargo	client-learning	web = client	
+npc	1811	Plaguewing Vulture		Buitre Alapeste	Buitre Alapeste	client-learning	web = client	
+npc	2198	Crier Goodman	Crier Bonombre	Pregonero Buenhombre	Pregonero Buenhombre	client-wdb	web = client	
+npc	2243	Syndicate Sentry	Argos de la Hermandad	Avizor de la Hermandad	Avizor de la Hermandad	client-learning	web = client	
+npc	2270	Hillsbrad Sentry	Argos de Trabalomas	Avizor de Trabalomas	Avizor de Trabalomas	client-wdb	web = client	
+npc	2272	Dalaran Theurgist	Tuérgo de Dalaran	Teúrgo de Dalaran	Teúrgo de Dalaran	client-wdb	web = client	
+npc	2361	Tamara Armstrong		Tamara Brazofuerte	Tamara Brazofuerte	client-wdb	web = client	same-as-english
+npc	2362	Hemmit Armstrong		Hemmit Brazofuerte	Hemmit Brazofuerte	client-wdb	web = client	
+npc	2372	Mudsnout Gnoll	Gnoll Fangorroca	Gnoll Morrobarro	Gnoll Morrobarro	client-learning	web = client	
+npc	2373	Mudsnout Shaman	Chamán Fangorroca	Chamán Morrobarro	Chamán Morrobarro	client-learning	web = client	
+npc	2404	Blacksmith Verringtan	Herrero Verrintan	Herrero Verringtan	Herrero Verringtan	client-wdb	web = client	
+npc	2455	Olivia Burnside	Olivia Ladoquemao	Olivia Ladoquemado	Olivia Ladoquemado	client-wdb	web = client	
+npc	2456	Newton Burnside	Newton Ladoquemao	Newton Ladoquemado	Newton Ladoquemado	client-wdb	web = client	
+npc	2457	John Burnside	John Ladoquemao	John Ladoquemado	John Ladoquemado	client-wdb	web = client	
+npc	2569	Boulderfist Mauler	Destructor Puño de Roca	Aplastador Puño de Roca	Aplastador Puño de Roca	client-learning	web = client	
+npc	2590	Syndicate Conjuror	Conjurador de la Hermandad	Conjuradora de la Hermandad	Conjurador de la Hermandad	client-learning	web = pack	
+npc	2914	Snake	Víbora	Culebra	Culebra	client-learning	web = client	
+npc	2974	Kodo Matriarch	Matriarca Kodo	Matriarca kodo	Matriarca kodo	client-learning	web = client	
+npc	3235	Greater Barrens Kodo	Kodo mayor de Los Baldíos	Kodo de Los Baldíos superior	Kodo de Los Baldíos superior	client-learning	web = client	
+npc	3370	Urtrun Clanbringer	Urtrun Clanero	Urtrun Aunaclanes	Urtrun Aunaclanes	client-learning	web = client	
+npc	3383	Southsea Cutthroat	Degollador de los Mares del Sur	Degolladora de los Mares del Sur	Degollador de los Mares del Sur	client-learning	web = pack	
+npc	3502	Ratchet Bruiser	Truhán de Trinquete	Truhana de Trinquete	Truhán de Trinquete	client-learning	web = pack	
+npc	3988	Venture Co. Operator	Operador de Ventura y Cía.	Operadora de Ventura y Cía.	Operador de Ventura y Cía.	client-learning	web = pack	
+npc	4013	Pridewing Skyhunter	Cazacielos Alargullo	Cazacielos Alaorgullo	Cazacielos Alaorgullo	client-learning	web = client	
+npc	4048	Falfindel Waywarder	Díscolo Falfildel	Díscolo Falfindel	[Falfindel Waywarder]	client-learning	client only	
+npc	4061	Mirkfallon Dryad	Dríada Mirkfallon	Dríade Mirkfallon	Dríade Mirkfallon	client-learning	web = client	
+npc	4281	Scarlet Scout	Explorador Escarlata	Exploradora Escarlata	Explorador Escarlata	client-learning	web = pack	
+npc	4285	Scarlet Disciple	Discípulo Escarlata	Discípula Escarlata	Discípulo Escarlata	client-learning	web = pack	
+npc	4342	Drywallow Vicejaw	Mentovilo secorrón	Malafauce secorrón	Malafauce secorrón	client-learning	web = client	
+npc	4351	Bloodfen Raptor	Raptor Faucerroja	Raptor Cienorrojo	Raptor Cienorrojo	client-learning	web = client	
+npc	4559	Timothy Weldon	Timoteo Meldon	Timothy Weldon	Timothy Weldon	client-learning	web = client	
+npc	4725	Crazed Sandstrider		Zancarena enloquecido	Zancarena enloquecido	client-learning	web = client	
+npc	5044	Theramore Skirmisher	Tramador de Theramonte	Hostigador de Theramore	[Theramore Skirmisher]	client-learning	client only	
+npc	5107	Mangorn Flinthammer	Mangorn Hachílex	Mangorn Martílex	Mangorn Martílex	client-wdb	web = client	
+npc	5108	Raena Flinthammer	Raena Hachílex	Raena Martílex	Raena Martílex	client-wdb	web = client	
+npc	5184	Theramore Sentry	Argos de Theramore	Avizor de Theramore	Avizor de Theramore	client-learning	web = client	
+npc	5509	Kathrum Axehand	Kathrum Manacha	Kathrum Mano de Hacha	Kathrum Mano de Hacha	client-wdb	web = client	
+npc	5519	Billibub Cogspinner	Billibub Velopiñon	Billibub Volopiñón	Billibub Volopiñón	client-wdb	web = client	
+npc	5569	Fizzlebang Booms	Fizzlebang Explot	Fizzlebang Bums	Fizzlebang Bums	client-wdb	web = client	
+npc	5603	Grunt Mojka	Bruto Mojka	Bruta Mojka	Bruta Mojka	client-learning	web = client	
+npc	5683	Comar Villard	Comar Villardo	Corma Villardo	Corma Villardo	client-learning	web = client	
+npc	6020	Slimeshell Makrura	Valvababosa Makrura	Valvababosa makrura	Valvababosa makrura	client-learning	web = client	
+npc	6579	Shoni the Shilent	Shoni la Shilenshiosa	Shoni la Shilenshiosha	Shoni la Shilenshiosha	client-wdb	web = client	
+npc	7381	Silver Tabby	Felino plateado	Atigrado plateado	Atigrado plateado	client-wdb	web = client	
+npc	7382	Orange Tabby	Felino naranja	Atigrado naranja	Atigrado naranja	client-wdb	web = client	
+npc	7390	Cockatiel	Cocatiel	Carolina	Carolina	client-wdb	web = client	
+npc	7553	Great Horned Owl	Gran cornolechuza	Búho común	Búho común	client-wdb	web = client	
+npc	7555	Hawk Owl	Lechuhalcón	Lechuza gavilana	Lechuza gavilana	client-wdb	web = client	
+npc	8681	Outfitter Eric	Confecciones Eric	Proveedor Eric	Proveedor Eric	client-wdb	web = client	
+npc	8879	Royal Historian Archesonus	Historiador Real Archesonus	Historiadora Real Archesonus	Historiadora Real Archesonus	client-wdb	web = client	
+npc	10036	Brackenwall Enforcer	Déspota Murelecho	Déspota Murohelecho	Déspota Murohelecho	client-learning	web = client	
+npc	10758	Grimtotem Bandit	Bandido Tótem Siniestro	Bandida Tótem Siniestro	Bandido Tótem Siniestro	client-learning	web = pack	
+npc	10759	Grimtotem Stomper	Vapuleador Tótem Siniestro	Vapuleadora Tótem Siniestro	Vapuleador Tótem Siniestro	client-learning	web = pack	
+npc	10760	Grimtotem Geomancer	Geomántico Tótem Siniestro	Geomántica Tótem Siniestro	Geomántico Tótem Siniestro	client-learning	web = pack	
+npc	11053	High Priestess MacDonnell	Suma Sacerdotisa MacDonnel	Suma sacerdotisa MacDonnell	Suma sacerdotisa MacDonnell	client-wdb	web = client	
+npc	11795	Mylentha Riverbend	Mylentha Cuenca	Mylentha Cuenca del Río	Mylentha Cuenca del Río	client-wdb	web = client	
+npc	11796	Bessany Plainswind	Bessany Ventollano	Bessany Viento del Llano	Bessany Viento del Llano	client-wdb	web = client	
+npc	11802	Dendrite Starblaze	Dendrite Rafagaestelar	Dendrita Rafagaestelar	Dendrita Rafagaestelar	client-wdb	web = client	
+npc	11822	Moonglade Warden	Alcaide de Claro de la Luna	Celador de Claro de la Luna	Celador de Claro de la Luna	client-wdb	web = client	
+npc	11832	Keeper Remulos	Guardián Rémulos	Guardián Remulos	Guardián Remulos	client-wdb	web = client	
+npc	12021	Daeolyn Summerleaf	Daeolun Hojestival	Daeolyn Hoja Estival	Daeolyn Hoja Estival	client-wdb	web = client	
+npc	12375	Chestnut Mare	Yegua Castaña	Yegua zaina	Yegua zaina	client-wdb	web = client	
+npc	12921	Enraged Foulweald	Hedioserra enfurecido	Maderiza iracundo	Maderiza iracundo	client-learning	web = client	
+npc	14123	Steeljaw Snapper	Sacudidor Mandiacero	Sacudidor Quijacero	Sacudidor Quijacero	client-learning	web = client	
+npc	14363	Thief Catcher Shadowdelve	Cogeladrones Sombonda	Miñón Sombonda	Miñón Sombonda	client-wdb	web = client	
+npc	14365	Thief Catcher Farmountain	Cogeladrones Monlejos	Miñón Montelejano	Miñón Montelejano	client-wdb	web = client	
+npc	14367	Thief Catcher Thunderbrew	Cogeladrones Cebatruenos	Miñón Cebatruenos	Miñón Cebatruenos	client-wdb	web = client	
+npc	14376	Scout Manslayer	Explorador Destripahombre	Exploradora Destripahombres	Exploradora Destripahombres	client-learning	web = client	
+npc	14990	Defilers Emissary	Emisario envilecido	Emisaria de los Rapiñadores	Emisaria de los Rapiñadores	client-learning	web = client	
+npc	15187	Cenarion Emissary Jademoon	Emisario Cenarion Lunajade	Emisaria Cenarion Lunajade	Emisaria Cenarion Lunajade	client-wdb	web = client	
+npc	16096	Steamwheedle Bruiser	Truhán	Truhán Bonvapor	Truhán Bonvapor	client-learning	web = client	
+npc	28687	Amisi Azuregaze		Amisi Mirada Azur	Amisi Mirada Azur	client-wdb	web = client	
+npc	29049	Arille Azuregaze		Arille Mirada Azur	Arille Mirada Azur	client-wdb	web = client	
+npc	29512	Ainderu Summerleaf		Ainderu Hoja Estival	Ainderu Hoja Estival	client-wdb	web = client	
+npc	29534	"Baroness" Llana		"Baronesa" Llana	"Baronesa" Llana	client-wdb	web = client	
+npc	29538	Hexil Garrot		Hexil Porrón	Hexil Porrón	client-wdb	web = client	
+npc	29547	Applebough		Ramanzano	Ramanzano	client-wdb	web = client	
+npc	29568	"Techs" Rickard Rustbolt		"Tecnologías" Rickard Pernoxidado	"Tecnologías" Rickard Pernoxidado	client-wdb	web = client	
+npc	30137	Shifty Vickers		Furti Vickers	Furti Vickers	client-wdb	web = client	
+npc	30885	Blazik Fireclaw		Blazik Garrafuego	Blazik Garrafuego	client-wdb	web = client	
+npc	32287	Archmage Alvareaux		Archimago Alvareaux	Archimago Alvareaux	client-wdb	web = client	
+npc	32330	Minzi the Minx		Minzi la Imprudente	Minzi la Imprudente	client-wdb	web = client	
+npc	32333	"Dapper" Danik Blackshaft		Danik Mangonegro "Pulcro"	Danik Mangonegro "Pulcro"	client-wdb	web = client	
+npc	32334	Nixi Fireclaw		Nixi Garrafuego	Nixi Garrafuego	client-wdb	web = client	
+npc	32413	Isirami Fairwind		Isirami Eolimpio	Isirami Eolimpio	client-wdb	web = client	
+npc	32451	Dalaran Citizen		Ciudadano de Dalaran	Ciudadano de Dalaran	client-wdb	web = client	
+npc	32453	Dalaran Citizen		Ciudadano de Dalaran	Ciudadano de Dalaran	client-wdb	web = client	
+npc	32454	Dalaran Citizen		Ciudadano de Dalaran	Ciudadano de Dalaran	client-wdb	web = client	
+npc	32679	Darthalia Ebonscorch		Darthalia Ebanoagostado	Darthalia Ebanoagostado	client-wdb	web = client	
+npc	32685	Kitz Proudbreeze		Kitz Orgulloescalofrío	Kitz Orgulloescalofrío	client-wdb	web = client	
+npc	32688	Archmage Tenaj		Archimago Tenaj	Archimago Tenaj	client-wdb	web = client	
+npc	32728	Illusionist Karina		Ilusionista Karina	Ilusionista Karina	client-wdb	web = client	
+npc	32735	Alchemist Burroughs		Alquimista Burroughs	Alquimista Burroughs	client-wdb	web = client	
+npc	32739	Baroness Zildjia		Baronesa Zildjia	Baronesa Zildjia	client-wdb	web = client	
+npc	32740	Archmage Rheaume		Archimaga Rheaume	Archimaga Rheaume	client-wdb	web = client	
+npc	32744	Bakor the Gangly		Bakor el Desgarbado	Bakor el Desgarbado	client-wdb	web = client	
+npc	32745	Amera Sky		Amera Cielo	Amera Cielo	client-wdb	web = client	
+npc	32747	Mendez Nightshadow		Mendez Nochumbral	Mendez Nochumbral	client-wdb	web = client	
+npc	34365	Orphan Matron Aria		Supervisora de huérfanos Aria	Supervisora de huérfanos Aria	client-wdb	web = client	
+npc	35826	Kaye Toogie		Kaye Estrecha	Kaye Estrecha	client-wdb	web = client	
+npc	36856	Shandy Glossgleam		Shandy Lustre Brillo	Shandy Lustre Brillo	client-wdb	web = client	
+npc	214529	Brave Stonetorch		Valiente Petroantorcha	Valiente Petroantorcha	client-learning	web = client	
+npc	240482	Berdun Cliffbrew		Berdun Beberriscos	Berdun Beberriscos	client-learning	web = client	
+npc	246795	Linzy Blackbolt		Linzy Pernonegro	Linzy Pernonegro	client-wdb	web = client	
+npc	246797	Jessa Weaver		Jessa Tejedor	Jessa Tejedor	client-wdb	web = client	
+npc	246848	Kirin Tor Guard		Guardia del Kirin Tor	Guardia del Kirin Tor	client-wdb	web = client	
+npc	247264	Emissary Jacques		Emisario Jacques	Emisario Jacques	client-wdb	web = client	no-source
+npc	250874	Vuldren Alpha		Vuldren alfa	Vuldren alfa	client-wdb	web = client	no-source
+npc	250921	Forest Sprite		Elemental del bosque	Elemental del bosque	client-wdb	web = client	
+npc	250927	Shadowgale Ursera		Ursera Ventarrosombra	Ursera Ventarrosombra	client-wdb	web = client	
+npc	250928	Highlands Ursera		Ursera de las Tierras Altas	Ursera de las Tierras Altas	client-wdb	web = client	
+npc	250929	Malfunctioning Cyclone Construct		Ensamblaje de ciclones descompuesto	Ensamblaje de ciclones descompuesto	client-wdb	web = client	no-source
+npc	251145	Al'Aketh Brute		Bruto Al'Aketh	Bruto Al'Aketh	client-wdb	web = client	no-source
+npc	251247	Shadowgale Manticore		Mantícora Ventarrosombra	[Shadowgale Manticore]	client-wdb	client only	
+npc	251261	Hippogryph Matriarch		Matriarca hipogrifo	Matriarca hipogrifo	client-wdb	web = client	no-source
+npc	251284	Hippogryph Protector		Protector hipogrifo	Protector hipogrifo	client-wdb	web = client	no-source
+npc	251291	Hippogryph Youth		Hipogrifo joven	Hipogrifo joven	client-wdb	web = client	no-source
+npc	251306	Hoarder		Acaparador	Acaparador	client-wdb	web = client	
+npc	251314	Skyhopper		Saltanubes	Saltanubes	client-wdb	web = client	
+npc	251428	Hoarder		Acaparador	Acaparador	client-wdb	web = client	
+npc	251437	Fireflies		Luciérnagas	Luciérnagas	client-wdb	web = client	
+npc	251448	Al'Aketh Neophyte		Neófito Al'Aketh	Neófito Al'Aketh	client-wdb	web = client	
+npc	251451	Al'Aketh Ambusher		Emboscadora Al'Aketh	Emboscadora Al'Aketh	client-wdb	web = client	
+npc	251622	Flutterfly		Alabatiente	Alabatiente	client-wdb	web = client	
+npc	251662	Living Lightning		Relámpago viviente	Relámpago viviente	client-wdb	web = client	no-source
+npc	251676	Wind Hollow		Hoya del viento	Hoya del viento	client-wdb	web = client	no-source
+npc	251684	Strange Hermit		Ermitaño extraño	Ermitaño extraño	client-wdb	web = client	no-source
+npc	251707	Ornery Galestrider		Zancavientos enfurruñado	Zancavientos enfurruñado	client-wdb	web = client	no-source
+npc	251727	Skyhopper		Saltanubes	Saltanubes	client-wdb	web = client	no-source
+npc	251918	Highlands Bandit		Bandido de las Tierras Altas	Bandido de las Tierras Altas	client-wdb	web = client	
+npc	251953	Talia Softglen		Talia Valledócil	Talia Valledócil	client-wdb	web = client	
+npc	251956	Lizi Silverstone		Lizi Platapiedra	Lizi Platapiedra	client-wdb	web = client	
+npc	251966	Commander Cyclas		Comandante Cyclas	Comandante Cyclas	client-wdb	web = client	no-source
+npc	251968	Ayessa Dawnsinger		Ayessa Cantoalba	Ayessa Cantoalba	client-wdb	web = client	no-source
+npc	251972	Charles Worth		Charles Valor	Charles Valor	client-wdb	web = client	
+npc	251977	Angelique Butler		Angelique Mayordomo	Angelique Mayordomo	client-wdb	web = client	
+npc	251978	Vanessa Sellers		Vanessa Comercios	Vanessa Comercios	client-wdb	web = client	
+npc	251979	Jepetto Joybuzz		Jepetto Jugarreta	Jepetto Jugarreta	client-wdb	web = client	
+npc	251981	Sheddle Glossgleam		Sheddle Lustre Brillo	Sheddle Lustre Brillo	client-wdb	web = client	
+npc	251992	Fenn Fairweather		Fenn Buentiempo	Fenn Buentiempo	client-wdb	web = client	
+npc	251997	Norvin Alderman		Norvin Regidor	Norvin Regidor	client-wdb	web = client	no-source
+npc	252000	Brammold Deepmine		Brammold Minahonda	Brammold Minahonda	client-wdb	web = client	
+npc	252040	Hagatha Moorehead		Hagatha Cadabra	Hagatha Cadabra	client-wdb	web = client	
+npc	252068	Al'Aketh Stormcaller		Clamatormentas Al'Aketh	Clamatormentas Al'Aketh	client-wdb	web = client	no-source
+npc	252076	High Priestess Lorthuna		Suma sacerdotisa Lorthuna	Suma sacerdotisa Lorthuna	client-wdb	web = client	no-source
+npc	252077	Skypriest Aanders		Sacerdocielo Aanders	Sacerdocielo Aanders	client-wdb	web = client	no-source
+npc	252082	Marcella Bloom		Marcela Florecer	Marcela Florecer	client-wdb	web = client	
+npc	252083	Derek Odds		Derek Cosillas	Derek Cosillas	client-wdb	web = client	
+npc	252085	Archmage Celindra		Archimaga Celindra	Archimaga Celindra	client-wdb	web = client	no-source
+npc	252087	Horse		Caballo	Caballo	client-wdb	web = client	
+npc	252088	Ice Claw Bear		Oso zarpahelada	Oso zarpahelada	client-wdb	web = client	
+npc	252089	Diemetradon		Diemetradón	Diemetradón	client-wdb	web = client	
+npc	252090	White Lion		León blanco	León blanco	client-wdb	web = client	
+npc	252092	Frostwolf		Lobo Gélido	Lobo Gélido	client-wdb	web = client	
+npc	252095	Hanaa Nightwind		Hanaa Brisa Nocturna	Hanaa Brisa Nocturna	client-wdb	web = client	no-source
+npc	252111	Fuzz		Pelusa	Pelusa	client-wdb	web = client	
+npc	252113	Dart Frog		Rana flecha	Rana flecha	client-wdb	web = client	
+npc	252137	Snake		Culebra	Culebra	client-wdb	web = client	
+npc	252155	Peacekeeper Vaaniel		Pacificador Vaaniel	Pacificador Vaaniel	client-wdb	web = client	no-source
+npc	252166	Thimble		Dedal	Dedal	client-wdb	web = client	
+npc	252357	Chicken		Pollo	Pollo	client-wdb	web = client	
+npc	252359	Lotheluum Starbreeze		Lotheluum Brisa Estelar	Lotheluum Brisa Estelar	client-wdb	web = client	no-source
+npc	252360	Alley		Callejón	Callejón	client-wdb	web = client	
+npc	252363	Merry		Feli	Feli	client-wdb	web = client	
+npc	252373	Anathamaas Aetherwind		Anathamaas Vientoéter	Anathamaas Vientoéter	client-wdb	web = client	
+npc	252376	Emerii Tallgust		Emerii Ráfaga Alta	Emerii Ráfaga Alta	client-wdb	web = client	
+npc	252377	Seena Skybreaker		Seena Rompecielos	Seena Rompecielos	client-wdb	web = client	no-source
+npc	252378	Yorana Windyreed		Yorana Junco Alabeado	Yorana Junco Alabeado	client-wdb	web = client	no-source
+npc	252379	Eltheen Nightbreeze		Eltheen Brisa Nocturna	Eltheen Brisa Nocturna	client-wdb	web = client	
+npc	252380	Othesia Evengale		Othesia Ventopar	Othesia Ventopar	client-wdb	web = client	
+npc	252382	Sessaria Skystride		Sessaria Zancacielo	Sessaria Zancacielo	client-wdb	web = client	no-source
+npc	252383	Valennia Stormfist		Valennia Puñotormenta	Valennia Puñotormenta	client-wdb	web = client	no-source
+npc	252388	Halavuul Cragwind		Halavuul Ventorrisco	Halavuul Ventorrisco	client-wdb	web = client	
+npc	252389	Quel'ana Quickgale		Quel'ana Ventarrápido	Quel'ana Ventarrápido	client-wdb	web = client	no-source
+npc	252390	Antelariaa Cloudgaze		Antelariaa Miranube	Antelariaa Miranube	client-wdb	web = client	
+npc	252392	Orsaan Dalewind		Orsaan Valdeviento	Orsaan Valdeviento	client-wdb	web = client	
+npc	252425	Buddy		Amichi	Amichi	client-wdb	web = client	
+npc	252428	Munchies		Comilón	Comilón	client-wdb	web = client	
+npc	252429	Prairie Dog		Perro de la pradera	Perro de la pradera	client-wdb	web = client	
+npc	252432	Sprout		Brote	Brote	client-wdb	web = client	
+npc	252438	Mister Tibbs		Señor Tibbs	Señor Tibbs	client-wdb	web = client	
+npc	252439	Beepo		Bipo	Bipo	client-wdb	web = client	
+npc	252448	Alvarion Windfield		Alvarion Campo de Viento	Alvarion Campo de Viento	client-wdb	web = client	no-source
+npc	252449	Iallion Featherfall		Iallion Pluma Cayente	Iallion Pluma Cayente	client-wdb	web = client	
+npc	252467	Miss Mojo		Señorita Mojo	Señorita Mojo	client-wdb	web = client	
+npc	252468	Potato		Patata	Patata	client-wdb	web = client	
+npc	252469	Twiggy		Ramita	Ramita	client-wdb	web = client	
+npc	252475	Elaadrin Evengale		Elaadrin Ventopar	Elaadrin Ventopar	client-wdb	web = client	no-source
+npc	252476	Talaanis Shadowsong		Talaanis Cantosombrío	Talaanis Cantosombrío	client-wdb	web = client	no-source
+npc	252477	Peacekeeper Elite		Élite pacificador	Élite pacificador	client-wdb	web = client	
+npc	252478	Xy'aaria Streamrunner		Xy'aaria Correcorrientes	Xy'aaria Correcorrientes	client-wdb	web = client	
+npc	252479	Daeann Steelwind		Daeann Brisacerada	Daeann Brisacerada	client-wdb	web = client	
+npc	252481	Wind Sprite		Duende de viento	Duende de viento	client-wdb	web = client	
+npc	252501	Sunny		Soleado	Soleado	client-wdb	web = client	
+npc	252502	Butterscotch		Mantequilla	Mantequilla	client-wdb	web = client	
+npc	252506	Honey		Miel	Miel	client-wdb	web = client	
+npc	252664	Al'Aketh Stormchaser		Trotatormentas Al'Aketh	Trotatormentas Al'Aketh	client-wdb	web = client	no-source
+npc	252665	Al'Aketh Footsoldier		Soldado de a pie Al'Aketh	Soldado de a pie Al'Aketh	client-wdb	web = client	
+npc	252666	Commander Belguilos		Comandante Belguilos	Comandante Belguilos	client-wdb	web = client	no-source
+npc	252762	Al'Aketh Guardian		Guardián Al'Aketh	Guardián Al'Aketh	client-wdb	web = client	
+npc	252763	Al'Aketh Spiritcaller		Clamaespíritus Al'Aketh	Clamaespíritus Al'Aketh	client-wdb	web = client	no-source
+npc	252764	Al'Aketh Skypriest		Sacerdocielo Al'Aketh	Sacerdocielo Al'Aketh	client-wdb	web = client	
+npc	252765	Al'Aketh Blademaster		Maestro del acero Al'Aketh	Maestro del acero Al'Aketh	client-wdb	web = client	no-source
+npc	252767	Al'Aketh Honor Guard		Guardia de honor Al'Aketh	Guardia de honor Al'Aketh	client-wdb	web = client	
+npc	252800	Aamelia Windfield		Aamelia Campo de Viento	Aamelia Campo de Viento	client-wdb	web = client	no-source
+npc	252802	Hungry Bandit		Bandido hambriento	Bandido hambriento	client-wdb	web = client	no-source
+npc	252820	Bandit Highwayman		Bandolero bandido	Bandolero bandido	client-wdb	web = client	no-source
+npc	252863	Ferauu the Bludgeon		Ferauu, el Cachiporrazo	Ferauu, el Cachiporrazo	client-wdb	web = client	
+npc	252875	Bandit Henchman		Secuaz bandido	Secuaz bandido	client-wdb	web = client	
+npc	252957	High Priestess Lorthuna		Suma sacerdotisa Lorthuna	[High Priestess Lorthuna]	client-wdb	client only	
+npc	253002	Fillion Flamebreeze		Fillion Brisallama	Fillion Brisallama	client-wdb	web = client	
+npc	253004	Iaadaria Bitterwind		Iaadaria Vientoglacial	Iaadaria Vientoglacial	client-wdb	web = client	no-source
+npc	253195	Al'Aketh Preacher		Predicador Al'Aketh	Predicador Al'Aketh	client-wdb	web = client	
+npc	253204	Dondallion Whisperwind		Dondallion Susurravientos	Dondallion Susurravientos	client-wdb	web = client	no-source
+npc	253281	Fillion Flamebreeze		Fillion Brisallama	Fillion Brisallama	client-wdb	web = client	
+npc	253282	Shriekling Fledgling		Volantón chillín	Volantón chillín	client-learning	web = client	
+npc	253283	Shriekling Matriarch		Matriarca chillín	Matriarca chillín	client-learning	web = client	no-source
+npc	253284	Fillion Flamebreeze		Fillion Brisallama	Fillion Brisallama	client-wdb	web = client	no-source
+npc	253285	Fillion Flamebreeze		Fillion Brisallama	Fillion Brisallama	client-wdb	web = client	no-source
+npc	253286	Standing Stone Vortex		Vórtice de piedra erguida	Vórtice de piedra erguida	client-wdb	web = client	
+npc	253357	Tower Watchman		Velador de la torre	Velador de la torre	client-wdb	web = client	
+npc	253372	Dead Cultist		Cultor de la muerte	Cultor de la muerte	client-wdb	web = client	
+npc	253511	Al'Aketh Pillager		Saqueador Al'Aketh	Saqueador Al'Aketh	client-wdb	web = client	
+npc	253576	Hyusaa Quickbreeze		Hyusaa Ventirraudo	Hyusaa Ventirraudo	client-wdb	web = client	no-source
+npc	253590	Valennia Stormfist		Valennia Puñotormenta	Valennia Puñotormenta	client-wdb	web = client	no-source
+npc	253622	Commander Haalien		Comandante Haalien	Comandante Haalien	client-wdb	web = client	no-source
+npc	253781	Peacekeeper		Pacificador	Pacificador	client-wdb	web = client	
+npc	253782	Al'Aketh Attacker		Atacante Al'Aketh	Atacante Al'Aketh	client-wdb	web = client	
+npc	253787	Al'Aketh Attacker		Atacante Al'Aketh	Atacante Al'Aketh	client-wdb	web = client	
+npc	253812	Elaadrin Evengale		Elaadrin Ventopar	Elaadrin Ventopar	client-wdb	web = client	
+npc	253813	Ayessa Dawnsinger		Ayessa Cantoalba	Ayessa Cantoalba	client-wdb	web = client	
+npc	253844	Valennia Stormfist		Valennia Puñotormenta	Valennia Puñotormenta	client-wdb	web = client	no-source
+npc	253847	Elaadrin Evengale		Elaadrin Ventopar	[Elaadrin Evengale]	client-wdb	client only	
+npc	253849	Ayessa Dawnsinger		Ayessa Cantoalba	[Ayessa Dawnsinger]	client-wdb	client only	
+npc	254078	Tom "Half-fish" Wilson		Tom "Mediopez" Wilson	Tom "Mediopez" Wilson	client-wdb	web = client	
+npc	254089	Coriella Calmbreeze		Coriella Brisacalma	Coriella Brisacalma	client-wdb	web = client	no-source
+npc	254128	Wardrobe		Guardarropas	Guardarropas	client-wdb	web = client	
+npc	254149	Sirocca "Swimmers" Starfeather		Sirocca "Nadador" Plumestrella	Sirocca "Nadador" Plumestrella	client-wdb	web = client	
+npc	254151	Vayn Moongaze		Vayn Ojolunar	Vayn Ojolunar	client-wdb	web = client	no-source
+npc	254287	Peacekeeper Elite		Élite pacificador	Élite pacificador	client-wdb	web = client	
+npc	254294	High Order Mage		Mago de la Suma Orden	Mago de la Suma Orden	client-wdb	web = client	
+npc	254296	Windshaper Shaman		Chamán Formavientos	Chamán Formavientos	client-wdb	web = client	
+npc	254344	Endaria Mistgaze		Endaria Miraniebla	Endaria Miraniebla	client-wdb	web = client	no-source
+npc	254345	Syriel Nightrain		Syriel Noctiluvio	Syriel Noctiluvio	client-wdb	web = client	
+npc	254411	Quel'dora Quickgale		Quel'dora Ventarrápido	Quel'dora Ventarrápido	client-wdb	web = client	no-source
+npc	254588	Windsong Crawler		Reptador de Son del Viento	Reptador de Son del Viento	client-wdb	web = client	no-source
+npc	254589	Vulgara the Insatiable		Vulgara, la Insaciable	Vulgara, la Insaciable	client-learning	web = client	no-source
+npc	254596	Al'Aketh Healer		Sanador Al'Aketh	Sanador Al'Aketh	client-wdb	web = client	no-source
+npc	254626	Al'Aketh Assassin		Asesino Al'Aketh	Asesino Al'Aketh	client-wdb	web = client	no-source
+npc	255534	"Badwind" Bennic		Bennic "Malvento"	Bennic "Malvento"	client-wdb	web = client	
+npc	255830	Malevolent Storm		Tormenta malévola	[Malevolent Storm]	client-wdb	client only	
+npc	255894	Innkeeper Zizplink		Tabernera Zizplink	Tabernera Zizplink	client-learning	web = client	
+npc	255897	Friz Frazzlespark		Friz Chisporreante	Friz Chisporreante	client-learning	web = client	
+npc	255940	Donaal Downbreeze		Donaal Infrabrisa	Donaal Infrabrisa	client-wdb	web = client	
+npc	256076	Damaged Construct		Ensamblaje dañado	Ensamblaje dañado	client-wdb	web = client	
+npc	256083	Riaani Nightwind		Riaani Nochebrisa	Riaani Nochebrisa	client-wdb	web = client	no-source
+npc	256092	Shadowgale Shriekling		Chillín Ventarrosombra	Chillín Ventarrosombra	client-wdb	web = client	no-source
+npc	256108	Shadowgale Shrieker		Aullador Ventarrosombra	Aullador Ventarrosombra	client-wdb	web = client	
+npc	256306	Arcanist Laurain		Arcanista Laurain	Arcanista Laurain	client-wdb	web = client	
+npc	256309	Animated Hammer		Martillo animado	Martillo animado	client-wdb	web = client	
+npc	256317	Animated Broom		Escoba animada	Escoba animada	client-wdb	web = client	
+npc	256337	Animated Tome		Tomo animado	Tomo animado	client-wdb	web = client	
+npc	256340	Animated Tome		Tomo animado	Tomo animado	client-wdb	web = client	
+npc	256343	Animated Tome		Tomo animado	Tomo animado	client-wdb	web = client	
+npc	256352	Animated Tome		Tomo animado	Tomo animado	client-wdb	web = client	
+npc	256359	Dalaran Wizard		Zahorí de Dalaran	Zahorí de Dalaran	client-wdb	web = client	
+npc	256371	Theresa Wolf		Theresa Lobo	Theresa Lobo	client-wdb	web = client	
+npc	256372	Windle Sparkshine		Windle Chispabrillo	Windle Chispabrillo	client-wdb	web = client	
+npc	256507	Belann Windwood		Belann Vientosauco	Belann Vientosauco	client-wdb	web = client	no-source
+npc	256617	Duke Anvillaxx		Duque Yunquilaxx	[Duke Anvillaxx]	client-learning	client only	
+npc	256618	Windshaper Shaman		Chamán formavientos	[Windshaper Shaman]	client-wdb	client only	
+npc	256619	High Order Mage		Mago de la Suma Orden	[High Order Mage]	client-wdb	client only	
+npc	256620	Muln Earthfury		Muln Furiatierra	[Muln Earthfury]	client-wdb	client only	
+npc	256621	Archmage Ansirem Runeweaver		Archimago Ansirem Tejerruna	[Archmage Ansirem Runeweaver]	client-wdb	client only	
+npc	256635	Peacekeeper		Pacificador	Pacificador	client-wdb	web = client	
+npc	256935	Malduko Cloudcrush		Malduko Rompenubes	Malduko Rompenubes	client-wdb	web = client	no-source
+npc	256966	Skypriest Aanders		Sacerdocielo Aanders	Sacerdocielo Aanders	client-wdb	web = client	no-source
+npc	256996	Al'Aketh Warrior		Guerrero Al'Aketh	Guerrero Al'Aketh	client-wdb	web = client	
+npc	257003	Ishlee Breezewhisper		Ishlee Brisarrullo	Ishlee Brisarrullo	client-wdb	web = client	
+npc	257004	Eaysaa Brightgust		Eaysaa Lumiventa	Eaysaa Lumiventa	client-wdb	web = client	
+npc	257005	Valiena Swiftgale		Valiena Ventoveloz	Valiena Ventoveloz	client-wdb	web = client	
+npc	257006	Nyalah Brightfire		Nyalah Lumifuego	Nyalah Lumifuego	client-wdb	web = client	no-source
+npc	257007	Melasa Fairmend		Melasa Sanablanca	Melasa Sanablanca	client-wdb	web = client	
+npc	257008	Baelann Swiftcurrent		Baelann Riorraudo	Baelann Riorraudo	client-wdb	web = client	
+npc	257036	Baelann Favorbreeze		Baelann Brisamante	Baelann Brisamante	client-wdb	web = client	
+npc	257037	Zelena Favorbreeze		Zelena Brisamante	Zelena Brisamante	client-wdb	web = client	
+npc	257065	Missionary Jasaan		Misionero Jasaan	Misionero Jasaan	client-wdb	web = client	no-source
+npc	257196	Zaal Stormshield		Zaal Tormentión	Zaal Tormentión	client-wdb	web = client	no-source
+npc	257282	Alan Sneeks		Alan Sigilar	[Alan Sneeks]	client-wdb	client only	
+npc	257422	Railee Thriceforged		Railee Tripleforja	Railee Tripleforja	client-wdb	web = client	
+npc	257521	High Order Apprentice		Aprendiz de la Suma Orden	Aprendiz de la Suma Orden	client-wdb	web = client	no-source
+npc	257532	Windshaper Novice Seer		Vidente novato formavientos	Vidente novato formavientos	client-wdb	web = client	no-source
+npc	257862	Earthen Ring Shaman		Chamán del Anillo de la Tierra	[Earthen Ring Shaman]	client-wdb	client only	
+npc	257866	Kirin Tor Mage		Mago del Kirin Tor	[Kirin Tor Mage]	client-wdb	client only	
+npc	257944	Elegael Thornpaw		Elegael Zarzaspina	Elegael Zarzaspina	client-wdb	web = client	no-source
+npc	258130	Jorel Windsinger		Jorel Vientocantor	Jorel Vientocantor	client-wdb	web = client	no-source
+npc	258133	Naanel Shadowfoot		Naanel Sombrapiés	Naanel Sombrapiés	client-wdb	web = client	
+npc	258134	Naaleos Leafwhisper		Naaleos Frondarrullo	Naaleos Frondarrullo	client-wdb	web = client	no-source
+npc	258135	Falleeah Gustrunner		Falleeah Racharrauda	Falleeah Racharrauda	client-wdb	web = client	
+npc	258136	Hyneena Fiercefang		Hyneena Dienteferoz	Hyneena Dienteferoz	client-wdb	web = client	
+npc	258137	Telenos Leafwhisper		Telenos Susurrahojas	Telenos Susurrahojas	client-wdb	web = client	
+npc	258138	Nayeela Snarlfang		Nayeela Colmillo Gruñente	Nayeela Colmillo Gruñente	client-wdb	web = client	
+npc	258239	Maelgwyn Shadowtale		Maelgwyn Relatasombras	Maelgwyn Relatasombras	client-wdb	web = client	
+npc	258253	Kaena Swiftpaw		Kaena Zarpaveloz	Kaena Zarpaveloz	client-wdb	web = client	
+npc	258260	Thylonell Bitterwind		Thylonell Vientoglacial	Thylonell Vientoglacial	client-wdb	web = client	
+npc	258272	Maeleneth Barrowbrother		Maeleneth Fratúmulo	Maeleneth Fratúmulo	client-wdb	web = client	
+npc	258275	Neyasteel Mossmender		Neyasteel Sanamusgos	Neyasteel Sanamusgos	client-wdb	web = client	
+npc	258277	Bryaes Galechaser		Bryaes Cazavento	Bryaes Cazavento	client-wdb	web = client	
+npc	258279	Beyaa Gustbellow		Beyaa Bramáfaga	Beyaa Bramáfaga	client-wdb	web = client	
+npc	258282	Maeyeen Brightfeather		Maeyeen Brillapluma	Maeyeen Brillapluma	client-wdb	web = client	
+npc	258284	Holaan Glenprancer		Holaan Brincavalles	Holaan Brincavalles	client-wdb	web = client	
+npc	258288	Mithraless Sterngale		Mithraless Ventadusto	Mithraless Ventadusto	client-wdb	web = client	
+npc	258289	Baeo Sharpstrike		Baeo Filoazote	Baeo Filoazote	client-wdb	web = client	
+npc	258294	Eelitha Fernstep		Eelitha Zancahelecho	Eelitha Zancahelecho	client-wdb	web = client	
+npc	258295	Arnorea Shadowfoot		Arnorea Sombrapiés	Arnorea Sombrapiés	client-wdb	web = client	
+npc	258306	Granny Finespindle		Abuela Bueneje	Abuela Bueneje	client-wdb	web = client	
+npc	258458	Slain Fledgling		Volantón asesinado	Volantón asesinado	client-wdb	web = client	
+npc	258548	Ellie Stonebrow		Ellie Petrocejas	Ellie Petrocejas	client-wdb	web = client	
+npc	259005	Gustjumper		Saltavientos	Saltavientos	client-wdb	web = client	
+npc	259006	Musical Gustjumper		Saltavientos musical	Saltavientos musical	client-wdb	web = client	
+npc	259011	Ban'aethal Refugee		Refugiado de Ban'aethal	Refugiado de Ban'aethal	client-wdb	web = client	
+npc	259012	Ealaane Nimbuswalker		Ealaane Caminanimbos	Ealaane Caminanimbos	client-wdb	web = client	no-source
+npc	259013	Resaan Nimbuswalker		Resaan Caminanimbos	Resaan Caminanimbos	client-wdb	web = client	no-source
+npc	259058	Windshaper Shaman		Chamán formavientos	Chamán formavientos	client-wdb	web = client	
+npc	259060	High Order Mage		Mago de la Suma Orden	Mago de la Suma Orden	client-wdb	web = client	
+npc	259084	Denaaris Stargale		Denaaris Tempestrella	Denaaris Tempestrella	client-wdb	web = client	no-source
+npc	259118	Muln Earthfury		Muln Furiatierra	Muln Furiatierra	client-learning	web = client	no-source
+npc	259119	Alaana Stormwalker		Alana Caminatormentas	Alana Caminatormentas	client-learning	web = client	no-source
+npc	259175	Docile Galestrider		Zancavientos dócil	Zancavientos dócil	client-wdb	web = client	
+npc	259818	Ivory Galestrider		Zancavientos de marfil	Zancavientos de marfil	client-wdb	web = client	
+npc	259961	Wharfmaster Whizzbuzz		Maestro de muelles Zumbidoz	Maestro de muelles Zumbidoz	client-learning	web = client	
+npc	260157	Elder Snow Leopard		Leopardo de las nieves mayor	Leopardo de las nieves mayor	client-wdb	web = client	
+npc	260405	Wharfmaster Steamfizzle		Maestro de muelles Silvapor	Maestro de muelles Silvapor	client-learning	web = client	
+npc	260628	Valennia Stormfist		Valennia Puñotormenta	[Valennia Stormfist]	client-wdb	client only	
+npc	260803	Highland Spider		Araña de las Tierras Altas	Araña de las Tierras Altas	client-learning	web = client	
+npc	260809	Highland Tortoise		Tortuga de las Tierras Altas	Tortuga de las Tierras Altas	client-learning	web = client	
+npc	261311	Plunder		Saqueador	Saqueador	client-wdb	web = client	
+npc	261319	Durgen Dirgehammer		Durgen Martillo de Endecha	Durgen Martillo de Endecha	client-wdb	web = client	
+npc	262492	Rimblat Earthshatter		Rimblat Rompeterra	Rimblat Rompeterra	client-learning	web = client	
+npc	262504	Earthen Ring Shaman		Chamán del Anillo de la Tierra	Chamán del Anillo de la Tierra	client-learning	web = client	
+npc	262558	Palah Thunderhoof		Palah Pezuña Trueno	Palah Pezuña Trueno	client-learning	web = client	
+npc	262560	Hana Lighthoof		Hana Pezuña Ligera	Hana Pezuña Ligera	client-learning	web = client	
+npc	263349	James Battlewing		James Alacombate	James Alacombate	client-wdb	web = client	
+npc	263389	Enraged Apparition		Aparecido iracundo	Aparecido iracundo	client-wdb	web = client	no-source
+npc	263390	Tormented Soul		Alma atormentada	Alma atormentada	client-wdb	web = client	no-source
+npc	263396	Dark Iron Looter		Despojador Hierro Negro	Despojador Hierro Negro	client-wdb	web = client	
+npc	263397	Dark Iron Engineer		Ingeniero Hierro Negro	Ingeniero Hierro Negro	client-wdb	web = client	
+npc	263398	Camp Tent		Tienda de campamento	Tienda de campamento	client-wdb	web = client	
+npc	263438	Dark Iron Summoner		Invocador Hierro Negro	Invocador Hierro Negro	client-wdb	web = client	
+npc	263466	Lesser Stone Golem		Gólem de piedra inferior	Gólem de piedra inferior	client-wdb	web = client	
+npc	263664	Raan Wildwind		Raan Bravovento	Raan Bravovento	client-wdb	web = client	no-source
+npc	263930	Peacekeeper		Pacificador	Pacificador	client-wdb	web = client	
+npc	264072	Yorn Grimtotem		Yorn Tótem Siniestro	Yorn Tótem Siniestro	client-learning	web = client	no-source
+npc	264078	Sutara Plainstalker		Sutara Acechallanos	Sutara Acechallanos	client-learning	web = client	
+npc	264712	High Priestess Lorthuna		Suma sacerdotisa Lorthuna	Suma sacerdotisa Lorthuna	client-wdb	web = client	no-source
+npc	264713	Commander Haalien		Comandante Haalien	Comandante Haalien	client-wdb	web = client	
+npc	264936	Earthseer Farsen		Videnterra Farsen	Videnterra Farsen	client-wdb	web = client	no-source
+npc	264937	Farsen's Totem		Tótem de Farsen	Tótem de Farsen	client-wdb	web = client	
+npc	264943	Afadra Dunwall		Afadra Muropardo	Afadra Muropardo	client-wdb	web = client	no-source
+npc	265002	Ghostly Attendant		Asistente fantasmal	Asistente fantasmal	client-wdb	web = client	no-source
+npc	265003	Thom Filch		Thom Birla	Thom Birla	client-wdb	web = client	no-source
+npc	265654	Faladriaal Featherfall		Faladriaal Pluma Cayente	Faladriaal Pluma Cayente	client-wdb	web = client	
+npc	265727	Seasoned Adventurer		Aventurero avezado	Aventurero avezado	client-wdb	web = client	
+npc	265730	Ajay Green		Ajay Verde	Ajay Verde	client-wdb	web = client	
+npc	266860	Galestrider Chick		Cría de zancavientos	Cría de zancavientos	client-wdb	web = client	
+npc	267006	Dark Neophyte	Neófito oscuro	Neófita oscura	Neófito oscuro	client-learning	web = pack	
+npc	267473	Brown Ram		Carnero marrón	Carnero marrón	client-wdb	web = client	
+npc	267474	White Ram		Carnero blanco	Carnero blanco	client-wdb	web = client	
+npc	267475	Gray Ram		Carnero gris	Carnero gris	client-wdb	web = client	
+npc	267599	Energizing Vortex		Vórtice de energía	Vórtice de energía	client-wdb	web = client	
+npc	267936	Refugee Child		Niño refugiado	Niño refugiado	client-wdb	web = client	
+npc	268047	Theramore Emissary		Emisaria de Theramore	Emisaria de Theramore	client-wdb	web = client	
+npc	268425	Ranath Nightstride		Ranath Zancanoche	Ranath Zancanoche	client-wdb	web = client	
+npc	268602	Skypriest Faladiel		Sacerdocielo Faladiel	Sacerdocielo Faladiel	client-wdb	web = client	no-source
+npc	268622	Encroaching Soldier		Soldado invasor	Soldado invasor	client-learning	web = client	
+npc	268623	Outraged Pillager		Saqueador indignado	Saqueador indignado	client-learning	web = client	
+npc	268679	Brazier of Eternal Flame		Blandón de la llama eterna	Blandón de la llama eterna	client-wdb	web = client	no-source
+npc	268765	Lava Spout Totem		Tótem emanador de lava	Tótem emanador de lava	client-wdb	web = client	
+npc	268925	Night Elf Courier		Mensajera elfa de la noche	Mensajera elfa de la noche	client-learning	web = client	
+npc	269127	Image of Archmage Modera		Imagen de la archimaga Modera	Imagen de la archimaga Modera	client-learning	web = client	same-as-english
+npc	269140	Brown Riding Kodo	Kodo marrón de montar	Kodo de montar marrón	Kodo de montar marrón	client-learning	web = client	
+npc	269863	Stormwind Crier		Pregonero de Ventormenta	Pregonero de Ventormenta	client-wdb	web = client	
+npc	270112	Saera Wirraway		Saera Zumbavuelo	Saera Zumbavuelo	client-wdb	web = client	
+npc	270201	Al'Aketh Brawler		Camorrista Al'Aketh	Camorrista Al'Aketh	client-wdb	web = client	
+npc	270214	Peacekeeper		Pacificador	Pacificador	client-wdb	web = client	
+npc	270313	Generic Bunny		Conejillo genérico	Conejillo genérico	client-wdb	web = client	
+npc	270459	Alfina Nightgaze		Alfina Vistanoche	Alfina Vistanoche	client-wdb	web = client	no-source
+npc	270513	Spellweaver Thaldris		Tejehechizos Thaldris	Tejehechizos Thaldris	client-wdb	web = client	
+npc	271334	Maddened Rotclaw		Garrapútrea enajenado	Garrapútrea enajenado	client-learning	web = client	no-source
+npc	271465	Falfaan Halfwind		Falfaan Semivento	Falfaan Semivento	client-wdb	web = client	
+npc	271478	Elaria Anvilwind		Elaria Yunqueolia	Elaria Yunqueolia	client-wdb	web = client	
+npc	271480	Taliaa Brightsky		Taliaa Cieloblanco	Taliaa Cieloblanco	client-wdb	web = client	
+npc	271483	Ergaan Eastwind		Ergaan Viento Oriental	Ergaan Viento Oriental	client-wdb	web = client	
+npc	271707	Juvenile Cloudrunner		Correnubes joven	Correnubes joven	client-wdb	web = client	
+npc	271710	Cloudrunner Matriarch		Matriarca Correnubes	Matriarca Correnubes	client-wdb	web = client	
+npc	271712	Cloudrunner		Correnubes	Correnubes	client-wdb	web = client	
+npc	271929	Shen'dorei Windwell		Pozo de viento shen'dorei	Pozo de viento shen'dorei	client-wdb	web = client	
+npc	272012	Unknown		Familiar felino	Familiar felino	client-wdb	web = client	
+npc	272329	Zergling		Zerguezno	Zerguezno	client-wdb	web = client	
+npc	272330	Panda Cub		Osito panda	Osito panda	client-wdb	web = client	
+npc	272389	Marsh Owl		Búho de marisma	Búho de marisma	client-wdb	web = client	
+npc	272391	Moonstrider		Zancudo selenita	Zancudo selenita	client-wdb	web = client	
+npc	272392	Giant Moonstrider		Zancudo selenita gigante	Zancudo selenita gigante	client-wdb	web = client	
+npc	272633	Nuara Tremorhoof		Nuara Sismozuña	Nuara Sismozuña	client-learning	web = client	
+npc	273017	Fendaal Windstone		Piedra de viento Fendaal	Piedra de viento Fendaal	client-wdb	web = client	no-source
+npc	273127	Finaida Earthbore		Finaida Perforatierra	Finaida Perforatierra	client-wdb	web = client	
+npc	273256	Arrgrah Stonewall		Arrgrah Muropiedra	Arrgrah Muropiedra	client-learning	web = client	
+npc	273264	Talisara Valewind		Talisara Vallevento	Talisara Vallevento	client-wdb	web = client	
+npc	273458	Wisp		Fuego fatuo	Fuego fatuo	client-wdb	web = client	
+npc	273967	High Order Messenger		Mensajero de la Suma Orden	Mensajero de la Suma Orden	client-wdb	web = client	
+npc	273968	High Order Messenger		Mensajero de la Suma Orden	Mensajero de la Suma Orden	client-wdb	web = client	
+npc	274334	Unknown		Prole de zancaalta	Prole de zancaalta	client-wdb	web = client	
+npc	274669	Countess Bunidict		Condesa Cataliebre	Condesa Cataliebre	client-wdb	web = client	
+npc	274671	Count Ash Bunnington		Conde Liebrepoldo	Conde Liebrepoldo	client-wdb	web = client	
+npc	274672	Duchess Elisabun		Duquesa Conejandra	Duquesa Conejandra	client-wdb	web = client	
+npc	274673	Baron Von Bunwick		Barón de Conejburgo	Barón de Conejburgo	client-wdb	web = client	
+npc	274675	Nyx		Nix	Nix	client-wdb	web = client	
+npc	274781	Iron Kingsguard		Guardia regio férreo	Guardia regio férreo	client-wdb	web = client	
+npc	274844	Culli Springwind		Culli Ventovera	Culli Ventovera	client-wdb	web = client	
+npc	274868	Gabbel Shattergale		Gabbel Vendastilla	Gabbel Vendastilla	client-wdb	web = client	
+npc	274873	Battlesmith Vaelgrim		Beliforja Vaelgrim	Beliforja Vaelgrim	client-wdb	web = client	
+npc	274906	Elyquen Starwatch		Elyquen Astrovisión	Elyquen Astrovisión	client-wdb	web = client	
+npc	274907	Belarysa Moonveil		Belarysa Velunar	Belarysa Velunar	client-wdb	web = client	
+npc	274917	Boborus Overvolt		Boborus Voltígrado	Boborus Voltígrado	client-wdb	web = client	
+npc	274921	Caretaker Kalvan		Custodio Kalvan	Custodio Kalvan	client-wdb	web = client	
+npc	274926	Buddy		Ardillín	Ardillín	client-wdb	web = client	
+npc	274930	Lyvia Stormsinger		Lyvia Tormensón	Lyvia Tormensón	client-wdb	web = client	
+npc	274935	Ironforge Protector		Protector de Forjaz	Protector de Forjaz	client-wdb	web = client	
+npc	274942	Bob McNaught		Bob McNada	Bob McNada	client-wdb	web = client	
+npc	274963	Roach		Cucaracha	Cucaracha	client-wdb	web = client	
+npc	274990	Ysa'bel Brightwind		Ysa'bel Viento Claro	Ysa'bel Viento Claro	client-wdb	web = client	
+npc	274991	La'tanja Brightgale		La'tanja Ventoval	La'tanja Ventoval	client-wdb	web = client	
+npc	274992	Kae'la Brightsong		Kae'la Cantoalegre	Kae'la Cantoalegre	client-wdb	web = client	
+npc	275013	Archivist Helm Anvilhand		Archivista Helm Puñunque	Archivista Helm Puñunque	client-wdb	web = client	
+npc	275017	Magus Fansy Goodbringer		Magus Fansy Aportabondad	Magus Fansy Aportabondad	client-wdb	web = client	
+npc	275018	Bitty Frostflinger		Bitty Lanzaescarcha	Bitty Lanzaescarcha	client-wdb	web = client	
+npc	275031	Dalaran Adept		Adepto de Dalaran	Adepto de Dalaran	client-wdb	web = client	
+npc	275164	Arcane Sentry		Avizor arcano	Avizor arcano	client-wdb	web = client	
+npc	275186	Galestrider		Zancavientos	Zancavientos	client-wdb	web = client	
+npc	275269	High Order Dockmaster		Maestro de embarcadero de la Suma Orden	Maestro de embarcadero de la Suma Orden	client-wdb	web = client	
+npc	275270	Windshapers Dockmaster		Maestro de embarcadero de los Formavientos	Maestro de embarcadero de los Formavientos	client-wdb	web = client	
+npc	275352	Grezla the Hag		Grezla la Fada	Grezla la Fada	client-wdb	web = client	
+npc	275356	Arcane Familiar		Familiar arcano	Familiar arcano	client-wdb	web = client	
+npc	275398	Arcanist Braedin		Arcanista Braedin	Arcanista Braedin	client-wdb	web = client	
+npc	275404	Shadow Operative		Operaria sombría	Operaria sombría	client-wdb	web = client	
+npc	275430	Investigator Kath'leen		Investigadora Kath'leen	Investigadora Kath'leen	client-wdb	web = client	
+npc	275432	Investigator Silva		Investigador Silva	Investigador Silva	client-wdb	web = client	
+npc	275622	Kerta the Bold		Kerta la Audaz	Kerta la Audaz	client-wdb	web = client	
+npc	276003	Minor Ice Elemental		Elemental de hielo menor	Elemental de hielo menor	client-wdb	web = client	no-source
+npc	276080	Mountaineer Coalbeard		Montaraz Barbahullera	Montaraz Barbahullera	client-wdb	web = client	
+npc	276170	Belanaa Windveil		Belanaa Velovento	Belanaa Velovento	client-wdb	web = client	
+npc	276171	Oura Stormspinner		Oura Tejetempestades	Oura Tejetempestades	client-learning	web = client	
+npc	276235	Archmage Modera		Archimaga Modera	Archimaga Modera	client-wdb	web = client	
+npc	276316	Raul Sweete		Raúl Sweete	Raúl Sweete	client-wdb	web = client	
+npc	276415	Windshaper Guardian		Guardia Formavientos	Guardia Formavientos	client-wdb	web = client	
+npc	276416	Windshaper Elementalist		Elementalista Formavientos	Elementalista Formavientos	client-wdb	web = client	
+npc	276737	Swift Gray Ram		Carnero gris presto	Carnero gris presto	client-wdb	web = client	
+npc	276740	Cedrik Stonequest		Cedrik Petromisión	Cedrik Petromisión	client-wdb	web = client	
+npc	276779	Swift Brown Ram		Carnero marrón presto	Carnero marrón presto	client-wdb	web = client	
+npc	276783	Swift White Ram		Carnero blanco presto	Carnero blanco presto	client-wdb	web = client	
+npc	276788	Brown Horse		Caballo marrón	Caballo marrón	client-wdb	web = client	
+npc	276790	Chestnut Mare		Yegua zaina	Yegua zaina	client-wdb	web = client	
+npc	276876	Great Brown Kodo		Gran kodo marrón	Gran kodo marrón	client-learning	web = client	
+npc	276891	Swift Brown Steed		Corcel marrón presto	Corcel marrón presto	client-wdb	web = client	
+npc	276892	Swift White Steed		Corcel blanco presto	Corcel blanco presto	client-wdb	web = client	
+npc	276893	Swift Palomino		Palomino presto	Palomino presto	client-wdb	web = client	
+npc	277024	Jelinek Sharpshear		Jelinek Tijeras	Jelinek Tijeras	client-wdb	web = client	
+npc	277037	Donovan Steelbeard		Donovan Barbacerada	Donovan Barbacerada	client-wdb	web = client	
+npc	277285	Jamis Nulink		Jamis Nulinta	Jamis Nulinta	client-wdb	web = client	
+npc	277410	Cereza Galeforce		Cereza Forzavientos	Cereza Forzavientos	client-wdb	web = client	
+npc	277723	Jaekal Galeshot		Jaekal Tirovento	Jaekal Tirovento	client-wdb	web = client	
+npc	277728	Gelia Shardsong		Gelia Fragmelodía	Gelia Fragmelodía	client-wdb	web = client	
+npc	277882	Foothills Duskbat		Murciumbrío de las laderas	Murciumbrío de las laderas	client-learning	web = client	
+npc	278116	Adem Spiresong		Adem Espirasón	Adem Espirasón	client-wdb	web = client	
+npc	278382	Ravaging Storm Elemental		Elemental de tormenta devastador	Elemental de tormenta devastador	client-learning	web = client	
+npc	278383	Ravaging Quake Elemental		Elemental de temblor devastador	Elemental de temblor devastador	client-learning	web = client	
+object	3715	Alliance Chest	Cofre ajado	Cofre de la Alianza	Cofre de la Alianza	client-wdb	web = client	
+object	35591	Fishing Bobber		Corcho de pesca	(no page)	client-wdb	client only	
+object	143987	Mailbox		Buzón	Buzón	client-wdb	web = client	
+object	417353	Extinguished Campfire		Hoguera apagada	Hoguera apagada	client-learning	web = client	
+object	457387	Dwarven Heirloom		Reliquia de los enanos	Reliquia de los enanos	client-wdb	web = client	
+object	562111	Poor Copper Vein		Filón de cobre escasa	Filón de cobre escasa	client-wdb	web = client	
+object	576179	Supply Cache		Alijo de suministros	Alijo de suministros	client-wdb	web = client	no-source
+object	578937	Ripe Stormapple		Tormanzana madura	Tormanzana madura	client-wdb	web = client	no-source
+object	578959	Flutterfly Dust		Polvo de alabatiente	Polvo de alabatiente	client-wdb	web = client	no-source
+object	581820	Dusty Bedroll		Saco de dormir polvoriento	Saco de dormir polvoriento	client-wdb	web = client	
+object	581822	Bloodstained Satchel		Bolsón manchado de sangre	Bolsón manchado de sangre	client-wdb	web = client	no-source
+object	613238	Zephyrseed Cone		Cono de semilla de céfiro	Cono de semilla de céfiro	client-wdb	web = client	no-source
+object	616466	Construct Parts		Partes de ensamblaje	Partes de ensamblaje	client-wdb	web = client	
+object	616467	Construct Parts		Partes de ensamblaje	Partes de ensamblaje	client-wdb	web = client	no-source
+object	616468	Construct Parts		Partes de ensamblaje	Partes de ensamblaje	client-wdb	web = client	no-source
+object	617674	Arvensus Shadowsong		Arvensus Cantosombrío	Arvensus Cantosombrío	client-wdb	web = client	no-source
+object	617675	Raani Windgazer		Raani Miravientos	Raani Miravientos	client-wdb	web = client	no-source
+object	617704	Bloody Note		Nota ensangrentada	Nota ensangrentada	client-wdb	web = client	
+object	617839	Hippogryph Down		Plumón de hipogrifo	Plumón de hipogrifo	client-wdb	web = client	no-source
+object	618329	Construct Parts		Partes de ensamblaje	Partes de ensamblaje	client-wdb	web = client	
+object	619450	Lady's Tear Moss		Moho de lágrima de dama	Moho de lágrima de dama	client-wdb	web = client	no-source
+object	623295	Abandoned Belongings		Posesiones abandonadas	Posesiones abandonadas	client-wdb	web = client	no-source
+object	626752	Dented Chest		Cofre abollado	Cofre abollado	client-wdb	web = client	
+object	628948	WANTED!		¡SE BUSCA!	¡SE BUSCA!	client-learning	web = client	
+object	631299	Skyborne Portal to Stormwind		Portal cielonato a Ventormenta	Portal cielonato a Ventormenta	client-wdb	web = client	
+object	652227	Dwarven Heirloom		Reliquia de los enanos	Reliquia de los enanos	client-wdb	web = client	
+object	652228	Dwarven Heirloom		Reliquia de los enanos	Reliquia de los enanos	client-wdb	web = client	
+object	656160	Wilted Peacebloom		Flor de paz marchita	Flor de paz marchita	client-wdb	web = client	
+object	656161	Stunted Silverleaf		Hojaplata atrofiada	Hojaplata atrofiada	client-wdb	web = client	
+object	658117	Lost Shipping Crate		Cajón de embalaje perdido	Cajón de embalaje perdido	client-learning	web = client	
+object	660729	The Forsaken Ally		El aliado de los Renegados	El aliado de los Renegados	client-wdb	web = client	
+object	660730	Trollbane Conquests		Conquistas de Aterratrols	Conquistas de Aterratrols	client-wdb	web = client	
+object	660732	Cycles of Morality		Ciclos de moralidad	Ciclos de moralidad	client-wdb	web = client	
+object	660964	Misplaced Packages		Paquetes extraviados	Paquetes extraviados	client-wdb	web = client	
+object	673474	Treaty of Understanding		Tratado del entendimiento	Tratado del entendimiento	client-wdb	web = client	
+object	694934	Fallen Log		Tronco caído	Tronco caído	client-wdb	web = client	
+object	695222	Coalbeard's Rifle		Rifle de Barbahullera	Rifle de Barbahullera	client-wdb	web = client	
+object	695223	Sunhammer's Rifle		Rifle de Martisol	Rifle de Martisol	client-wdb	web = client	
+object	697118	Windstone Formation		Formación de piedra de viento	Formación de piedra de viento	client-wdb	web = client	no-source
+quest	176	WANTED: "Hogger"	Se busca: Hogger	SE BUSCA: "Hogger"	SE BUSCA: "Hogger"	client-wdb	web = client	
+quest	647	MacKreel's Moonshine	Licor de luna de Mackreel	Licor de MacKreel	Licor de MacKreel	client-wdb	web = client	
+quest	4785	Fine Gold Thread	Hilo de oro fino	Hilo de oro refinado	Hilo de oro refinado	client-wdb	web = client	
+quest	5641	Chastise	Sin miedo	Castigar	Castigar	client-wdb	web = client	
+quest	5645	Chastise	Sin miedo	Castigar	Castigar	client-wdb	web = client	
+quest	5647	Chastise	Sin miedo	Castigar	Castigar	client-wdb	web = client	
+quest	7223	Armor Scraps	Los restos de armadura	Los trocitos de armadura	Los trocitos de armadura	client-wdb	web = client	
+quest	7628	Doomsday Candle	La Vela del Apocalipsis	La Vela del día del Juicio Final	La Vela del Apocalipsis	client-wdb	web = pack	
+quest	7961	Waskily Wabbits!		¡Estos conejos no paran!	¡Estos conejos no paran!	client-wdb	web = client	
+quest	8425	Voodoo Feathers	Plumas Vudú	Plumas vudú	Plumas vudú	client-wdb	web = client	
+quest	9052	Bloodpetal Poison	Veneno de Sangrepétalo	Veneno Sangrepétalo	Veneno Sangrepétalo	client-wdb	web = client	
+quest	9065	The "Chow" Quest (123)aa		La misión "Masticar" (123)aa	La misión "Masticar" (123)aa	client-wdb	web = client	
+quest	78093	Return to Delgren		Regresa con Delgren	Regresa con Delgren	client-wdb	web = client	
+quest	78124	Nar'thalas Almanac		Almanaque de Nar'thalas	Almanaque de Nar'thalas	client-wdb	web = client	
+quest	78127	The Dalaran Digest		El compendio de Dalaran	El compendio de Dalaran	client-wdb	web = client	
+quest	78150	Friend of the Library		Contribuyente de la biblioteca	Contribuyente de la biblioteca	client-wdb	web = client	
+quest	78676	The Eye of Bhossca		El ojo de Bhossca	El ojo de Bhossca	client-wdb	web = client	
+quest	79192	Stepping Stones		Tesoros rocosos	Tesoros rocosos	client-wdb	web = client	
+quest	79536	Greater Friend of the Library		Contribuyente mayor de la biblioteca	Contribuyente mayor de la biblioteca	client-wdb	web = client	
+quest	80001	Rekindle		Reavivar	Reavivar	client-wdb	web = client	
+quest	86577	A Sampling of Putrescence		Una muestra de putrefacción	Una muestra de putrefacción	client-wdb	web = client	
+quest	86613	Excavation Tools		Herramientas de excavación	Herramientas de excavación	client-wdb	web = client	
+quest	86616	Repurposed Totems		Tótems modificados	Tótems modificados	client-wdb	web = client	
+quest	86620	Fledgling Rescue		Al rescate de los polluelos	Al rescate de los polluelos	client-wdb	web = client	
+quest	86776	Ingredients for the Forge		Ingredientes para la forja	Ingredientes para la forja	client-wdb	web = client	
+quest	87295	Deflective Surface		Superficie deflectora	Superficie deflectora	client-wdb	web = client	
+quest	87494	Microcrystal Contamination		Contaminación microcristálica	Contaminación microcristálica	client-wdb	web = client	
+quest	87760	Holy Diver		Buceador Sagrado	Buceador Sagrado	client-wdb	web = client	
+quest	88756	Bring Back a Bang		Trae de vuelta la explosión	Trae de vuelta la explosión	client-wdb	web = client	
+quest	88807	Slay the Spitelash		Purga de los Látigo de Ira	Purga de los Látigo de Ira	client-wdb	web = client	
+quest	88809	Preserving Eldarath		La conservación de Eldarath	La conservación de Eldarath	client-wdb	web = client	
+quest	89001	Home on the Range		Hogar forestal	Hogar forestal	client-wdb	web = client	
+quest	90487	Ancient Allies		Antiguos aliados	[Ancient Allies]	client-wdb	client only	
+quest	90647	The Staff of the Mountain		El bastón de la montaña	El bastón de la montaña	client-wdb	web = client	
+quest	90702	Disturbed Grave		Tumba perturbada	Tumba perturbada	client-wdb	web = client	
+quest	90750	More Work?		¿Más trabajo?	[More Work?]	client-wdb	client only	
+quest	90865	Eyes of the Watchers		Los ojos de los vigías	Los ojos de los vigías	client-wdb	web = client	
+quest	91688	To the Summit of Eternity		Hacia la Cima de la Eternidad	[To the Summit of Eternity]	client-wdb	client only	
+quest	91697	Meet the Elders		Reúnete con los ancianos	[Meet the Elders]	client-wdb	client only	
+quest	91736	Applejack Still		Destilador de licor de manzana	Destilador de licor de manzana	client-wdb	web = client	
+quest	91738	An Apple Treat		Un lujo de manzanas	Un lujo de manzanas	client-wdb	web = client	
+quest	91740	Croaky's Head		Cabeza de Croaky	Cabeza de Croaky	client-wdb	web = client	
+quest	91755	Leaves to Ligatures		Hojas medicinales	Hojas medicinales	client-wdb	web = client	
+quest	91770	Bark Bite		Curación de corteza	[Bark Bite]	client-wdb	client only	
+quest	91881	The Western Post		El puesto oeste	[The Western Post]	client-wdb	client only	
+quest	91883	Spear of the Skylord		Lanza del Señor del Cielo	Lanza del Señor del Cielo	client-wdb	web = client	
+quest	91923	Celastrus the Bitter		Celastrus, el Amargado	[Celastrus the Bitter]	client-wdb	client only	
+quest	92008	Premiere Parts		Piezas de primera calidad	[Premiere Parts]	client-wdb	client only	
+quest	92009	Crate Expectations		Suma suavidad	Suma suavidad	client-wdb	web = client	
+quest	92011	Rubble Rummage		El valor de la basura	[Rubble Rummage]	client-wdb	client only	
+quest	92014	Fox Hole		Madriguera de ladrones	[Fox Hole]	client-wdb	client only	
+quest	92015	Area Denial Skunks		Mofetas bloqueadoras	[Area Denial Skunks]	client-wdb	client only	
+quest	92017	Cleansing Winds		Purificación eólica	Purificación eólica	client-wdb	web = client	
+quest	92064	Tree Free		Yugo arbóreo	[Tree Free]	client-wdb	client only	
+quest	92100	Anywhere But Here		En cualquier lugar menos aquí	En cualquier lugar menos aquí	client-wdb	web = client	
+quest	92109	My First Alchemy Set		Mi primer juego de alquimia	Mi primer juego de alquimia	client-wdb	web = client	
+quest	92111	Of Friend and Fur		Amigos peludos	[Of Friend and Fur]	client-wdb	client only	
+quest	92147	Highfeather Helper		Ayudante de Plumalta	Ayudante de Plumalta	client-wdb	web = client	
+quest	92169	Paying Back the Pact		El Pacto debe pagar	El Pacto debe pagar	client-wdb	web = client	
+quest	92171	Taking to New Heights		Conquistando nuevas alturas	[Taking to New Heights]	client-wdb	client only	
+quest	92317	Stolen Life		Vida robada	Vida robada	client-wdb	web = client	
+quest	92335	Ashes of the Legion Ascent		Las cenizas del ascenso de la Legión	[Ashes of the Legion Ascent]	client-wdb	client only	
+quest	92345	Beneath Nordrassil		Debajo de Nordrassil	Debajo de Nordrassil	client-wdb	web = client	
+quest	92432	An Alarming Request		Un pedido alarmante	Un pedido alarmante	client-wdb	web = client	
+quest	92449	Blight No More		Basta de peste	[Blight No More]	client-wdb	client only	
+quest	92457	Starving Arcane		Un arcano hambriento	Un arcano hambriento	client-wdb	web = client	
+quest	92458	Heart of Disruption		El corazón de la perturbación	El corazón de la perturbación	client-wdb	web = client	
+quest	92479	A Scribbled Letter		Una carta garabateada	Una carta garabateada	client-wdb	web = client	
+quest	92481	A Student of the Arcane		Estudiante de lo arcano	Estudiante de lo arcano	client-wdb	web = client	
+quest	92482	The Way of the Hunter		El camino del cazador	El camino del cazador	client-wdb	web = client	
+quest	92483	At Home in the Shadows		En las sombras del hogar	En las sombras del hogar	client-wdb	web = client	
+quest	92485	A Student of Nature		Estudiante de la naturaleza	Estudiante de la naturaleza	client-wdb	web = client	
+quest	92500	A Bit of the Sky		Un poco del cielo	[A Bit of the Sky]	client-wdb	client only	
+quest	92515	The Problem With Prideclaws		El problema con los leozarpas	El problema con los leozarpas	client-wdb	web = client	
+quest	92516	Hippogryph Harassment		Hipogrifos hostigadores	Hipogrifos hostigadores	client-wdb	web = client	
+quest	92517	The Criminal Element		El elemento criminal	El elemento criminal	client-wdb	web = client	
+quest	92528	Among the Faithful		Entre los fieles	Entre los fieles	client-wdb	web = client	
+quest	92529	Falaath Village		Poblado Falaath	Poblado Falaath	client-wdb	web = client	
+quest	92532	The Warrior's Path		El camino del guerrero	El camino del guerrero	client-wdb	web = client	
+quest	92533	Twisted Tools		Herramientas corrompidas	[Twisted Tools]	client-wdb	client only	
+quest	92544	Al'Aketh Thugs		Matones Al'Aketh	Matones Al'Aketh	client-wdb	web = client	
+quest	92550	Havoc in the Highlands		Estragos en las Tierras Altas	Estragos en las Tierras Altas	client-wdb	web = client	
+quest	92551	Stolen Supplies		Suministros robados	Suministros robados	client-wdb	web = client	
+quest	92579	To Valanaar		A Valanaar	A Valanaar	client-wdb	web = client	
+quest	92591	Final Death		Muerte definitiva	[Final Death]	client-wdb	client only	
+quest	92593	Avalanche of Corruption		Avalancha de corrupción	[Avalanche of Corruption]	client-wdb	client only	
+quest	92594	Kindling, Kinda		Hasta las astillas	Hasta las astillas	client-wdb	web = client	
+quest	92609	Feathers in Flight		Plumas en pleno vuelo	[Feathers in Flight]	client-wdb	client only	
+quest	92612	Aid from Moonglade		Ayuda en Claro de la Luna	[Aid from Moonglade]	client-wdb	client only	
+quest	92640	Desperate Times		Tiempos desesperados	Tiempos desesperados	client-wdb	web = client	
+quest	92642	Disrupting Logistics		Interrupción logística	Interrupción logística	client-wdb	web = client	
+quest	92643	The Turncoat		El traidor	El traidor	client-wdb	web = client	
+quest	92644	Unfortunate News		Noticias desafortunadas	Noticias desafortunadas	client-wdb	web = client	
+quest	92645	Breaking the Breaker		Exterminar a la Exterminadora	Exterminar a la Exterminadora	client-wdb	web = client	
+quest	92646	Confront Lorthuna		Enfrenta a Lorthuna	Enfrenta a Lorthuna	client-wdb	web = client	
+quest	92679	Blood Tithe		Diezmo de sangre	Diezmo de sangre	client-wdb	web = client	
+quest	92682	Make Yourself Useful		Haz algo útil	Haz algo útil	client-wdb	web = client	
+quest	92683	Flutterfly Dust		Polvo de alabatiente	Polvo de alabatiente	client-wdb	web = client	
+quest	92684	Ornery Ornery Galestriders		Zancavientos enfurruñados	Zancavientos enfurruñados	client-wdb	web = client	
+quest	92685	The Hills Have Eyes		Las colinas tienen ojos	Las colinas tienen ojos	client-wdb	web = client	
+quest	92698	What Is My Purpose?		¿Cuál es mi propósito?	¿Cuál es mi propósito?	client-wdb	web = client	
+quest	92699	The Supreme Magister		El magíster supremo	El magíster supremo	client-wdb	web = client	
+quest	92701	To Valanaar		A Valanaar	A Valanaar	client-wdb	web = client	
+quest	92702	Branch Out		Ramificación	[Branch Out]	client-wdb	client only	
+quest	92703	Deliver the News		Entrega de noticias	Entrega de noticias	client-wdb	web = client	
+quest	92709	A Grand Adventure		Una gran aventura	Una gran aventura	client-wdb	web = client	
+quest	92727	The Missing Scholar		El erudito desaparecido	El erudito desaparecido	client-wdb	web = client	
+quest	92741	Unwelcome Visitors		Visitantes inoportunos	Visitantes inoportunos	client-wdb	web = client	
+quest	92743	A Conqueror's Crown		La corona de conquistador	La corona de conquistador	client-wdb	web = client	
+quest	92752	Explosive Consultation		Consulta explosiva	Consulta explosiva	client-wdb	web = client	
+quest	92811	Economic Warfare		Guerrilla económica	Guerrilla económica	client-wdb	web = client	
+quest	92812	Economic Warfare		Guerrilla económica	Guerrilla económica	client-wdb	web = client	
+quest	92834	Avenged Tenfold		La venganza será diez veces peor	La venganza será diez veces peor	client-wdb	web = client	
+quest	92840	Catching Wind		Vientos combativos	Vientos combativos	client-wdb	web = client	
+quest	92841	Valley of Bones		Valle de los Huesos	Valle de los Huesos	client-wdb	web = client	
+quest	92846	Outcast Necromancers		Nigromantes marginadas	Nigromantes marginadas	client-wdb	web = client	
+quest	92847	Corrupting Tears		Lágrimas corruptas	Lágrimas corruptas	client-wdb	web = client	
+quest	92849	The Missing Scholar		El erudito desaparecido	El erudito desaparecido	client-wdb	web = client	
+quest	92850	The Missing Scholar		El erudito desaparecido	El erudito desaparecido	client-wdb	web = client	
+quest	92860	In Service of Zephras		Al servicio de Zephras	Al servicio de Zephras	client-wdb	web = client	
+quest	92873	Proof of Concept		Prueba de concepto	Prueba de concepto	client-wdb	web = client	
+quest	92880	Return to Valanaar		Regreso a Valanaar	Regreso a Valanaar	client-wdb	web = client	
+quest	92881	The High Elder's Request		El pedido del gran ancestro	El pedido del gran ancestro	client-wdb	web = client	
+quest	92911	Harvesting the Harvesters		Cosechar a los cosechadores	Cosechar a los cosechadores	client-wdb	web = client	
+quest	92914	Strange Pylons		Pilares Extraños	Pilares Extraños	client-wdb	web = client	
+quest	92947	Making Our Move		Nuestro movimiento	Nuestro movimiento	client-wdb	web = client	
+quest	92960	Siphoned Ephemeral Essence		Esencia efímera absorbida	Esencia efímera absorbida	client-wdb	web = client	
+quest	93016	A Brief History Lesson		Una breve lección de historia	Una breve lección de historia	client-wdb	web = client	
+quest	93034	Valley of Bones		Valle de los Huesos	Valle de los Huesos	client-wdb	web = client	
+quest	93036	Infiltrating the Cult		Infiltrarse en el culto	Infiltrarse en el culto	client-wdb	web = client	
+quest	93041	Facing the Truth		Cara a cara con la verdad	Cara a cara con la verdad	client-wdb	web = client	
+quest	93045	Test Your Theory		Teoría a prueba	[Test Your Theory]	client-wdb	client only	
+quest	93065	Prepare for Battle		Preparación para la batalla	Preparación para la batalla	client-wdb	web = client	
+quest	93066	Bristleback Retreat		Retirada Erizapúas	Retirada Erizapúas	client-wdb	web = client	
+quest	93089	What Comes Next		Los próximos pasos	Los próximos pasos	client-wdb	web = client	
+quest	93122	Checking Things Out		Reconocimiento del terreno	Reconocimiento del terreno	client-wdb	web = client	
+quest	93159	The Strange Hermit		El ermitaño extraño	El ermitaño extraño	client-wdb	web = client	
+quest	93160	The Forest's Bounty		La abundancia del bosque	La abundancia del bosque	client-wdb	web = client	
+quest	93172	Free the Hollows		Libera la hoyas	Libera la hoyas	client-wdb	web = client	
+quest	93176	My Little Friends		Mis amigos pequeños	Mis amigos pequeños	client-wdb	web = client	
+quest	93197	Mending Communications		Problemas de comunicación	[Mending Communications]	client-wdb	client only	
+quest	93224	Carved Centaur Totems		Tótems tallados de los centauros	Tótems tallados de los centauros	client-wdb	web = client	
+quest	93226	Buying Friendship: Magram		La amistad tiene un precio: Magram	La amistad tiene un precio: Magram	client-wdb	web = client	
+quest	93227	Buying Friendship: Gelkis		La amistad tiene un precio: Gelkis	La amistad tiene un precio: Gelkis	client-wdb	web = client	
+quest	93319	Pilfered Windstones		Piedras de viento saqueadas	Piedras de viento saqueadas	client-wdb	web = client	
+quest	93320	Tower Defense		Defensa de la torre	Defensa de la torre	client-wdb	web = client	
+quest	93341	Forlorn Gardens		Jardines Desolados	Jardines Desolados	client-wdb	web = client	
+quest	93383	Contents Under Pressure		Contenido bajo presión	[Contents Under Pressure]	client-wdb	client only	
+quest	93407	A Thorn in the Paw		Una espina en la pata	Una espina en la pata	client-wdb	web = client	
+quest	93459	More Al'Aketh Ears		Más orejas de Al'Aketh	Más orejas de Al'Aketh	client-wdb	web = client	
+quest	93461	Welcome to Shen'dar Village		Bienvenida a la Aldea Shen'dar	Bienvenida a la Aldea Shen'dar	client-wdb	web = client	
+quest	93464	The Visiting Mage		Un mago vino a verme	Un mago vino a verme	client-wdb	web = client	
+quest	93568	Partially Digested Collar		Collar parcialmente digerido	[Partially Digested Collar]	client-wdb	client only	
+quest	93584	Cult Closure		Cierre del culto	Cierre del culto	client-wdb	web = client	
+quest	93615	Kits and Cats		Gatos y gatitos	[Kits and Cats]	client-wdb	client only	
+quest	93617	Prey and Predator		Cazador cazado	[Prey and Predator]	client-wdb	client only	
+quest	93644	Tattered Journal		Diario andrajoso	Diario andrajoso	client-wdb	web = client	
+quest	93747	Violence Into Verdure		De la violencia al verdor	[Violence Into Verdure]	client-wdb	client only	
+quest	93759	The Bounty of Nature		La generosidad de la naturaleza	[The Bounty of Nature]	client-wdb	client only	
+quest	93773	The Pact		El pacto	El pacto	client-wdb	web = client	
+quest	93791	Speak with Belann		Habla con Belann.	Habla con Belann.	client-wdb	web = client	
+quest	93825	Barkbound Blessings		Bendiciones de la corteza	Bendiciones de la corteza	client-wdb	web = client	
+quest	93826	Deal Dread to Deadwood		Mete miedo a los Muertobosque	Mete miedo a los Muertobosque	client-wdb	web = client	
+quest	93827	Windswept Wards		Resguardos barridos por el viento	Resguardos barridos por el viento	client-wdb	web = client	
+quest	93831	Sweetpaw Jam		Mermelada de patadulce	[Sweetpaw Jam]	client-wdb	client only	
+quest	93835	Confront Lorthuna		Enfrenta a Lorthuna	Enfrenta a Lorthuna	client-wdb	web = client	
+quest	93862	Crate Return		Devolución de cajón	Devolución de cajón	client-wdb	web = client	
+quest	93926	The Western Watch		La avanzada occidental	La avanzada occidental	client-wdb	web = client	
+quest	93927	A Last Request		Un último pedido	Un último pedido	client-wdb	web = client	
+quest	93948	Deliver the Signet		Entrega el sello	Entrega el sello	client-wdb	web = client	
+quest	93949	Bugged		Insectos infiltrados	Insectos infiltrados	client-wdb	web = client	
+quest	93951	A Little Beauty		Una pizca de belleza	Una pizca de belleza	client-wdb	web = client	
+quest	93952	Balance Through Strength		Equilibrio a través de la fuerza	Equilibrio a través de la fuerza	client-wdb	web = client	
+quest	93958	The Inner Sanctum		El Sagrario Interior	El Sagrario Interior	client-wdb	web = client	
+quest	94003	The Skybreaker Bulwark		El Baluarte Rompecielos	El Baluarte Rompecielos	client-wdb	web = client	
+quest	94007	Taming the Beast		Domesticar la bestia	Domesticar la bestia	client-wdb	web = client	
+quest	94013	Taming the Beast		Domesticar la bestia	Domesticar la bestia	client-wdb	web = client	
+quest	94050	Training the Beast		Domesticar la bestia	Domesticar la bestia	client-wdb	web = client	
+quest	94369	The Fate of Zephras		El destino de Zephras	El destino de Zephras	client-wdb	web = client	
+quest	94373	Call of Earth		La llamada de la tierra	La llamada de la tierra	client-wdb	web = client	
+quest	94374	Call of Earth		La llamada de la tierra	La llamada de la tierra	client-wdb	web = client	
+quest	94375	Call of Earth		La llamada de la tierra	La llamada de la tierra	client-wdb	web = client	
+quest	94413	A Magical Affront		Un agravio mágico	Un agravio mágico	client-wdb	web = client	
+quest	94449	Call of Fire		La llamada del fuego	La llamada del fuego	client-wdb	web = client	
+quest	94465	Call of Fire		La llamada del fuego	La llamada del fuego	client-wdb	web = client	
+quest	94466	Call of Fire		La llamada del fuego	La llamada del fuego	client-wdb	web = client	
+quest	94467	Call of Fire		La llamada del fuego	La llamada del fuego	client-wdb	web = client	
+quest	94468	Call of Fire		La llamada del fuego	La llamada del fuego	client-wdb	web = client	
+quest	94472	Earth Sapta		Sapta de tierra	Sapta de tierra	client-wdb	web = client	
+quest	94473	Fire Sapta		Sapta de fuego	Sapta de fuego	client-wdb	web = client	
+quest	94479	One Person's Trash		La basura de uno...	[One Person's Trash]	client-wdb	client only	
+quest	94484	Unnerving Silence		Silencio inquietante	Silencio inquietante	client-wdb	web = client	
+quest	94486	Feathers for Binding		Plumas de unión	Plumas de unión	client-wdb	web = client	
+quest	94487	Unwanted and Unworthy		Indigno e infame	Indigno e infame	client-wdb	web = client	
+quest	94488	The Ties That Bind		Los lazos que nos unen	Los lazos que nos unen	client-wdb	web = client	
+quest	94490	Ripped Missive		Misiva rasgada	Misiva rasgada	client-wdb	web = client	
+quest	94491	The Fate of the Den		El destino de la guarida	El destino de la guarida	client-wdb	web = client	
+quest	94493	A Sacrifice in Vain		Sacrificio en vano	Sacrificio en vano	client-wdb	web = client	
+quest	94494	Call of Water		La llamada del agua	La llamada del agua	client-wdb	web = client	
+quest	94568	The Cult's True Plans		Los verdaderos planes del culto	Los verdaderos planes del culto	client-wdb	web = client	
+quest	94613	My Kingdom for a Horse		Mi reino por un caballo	[My Kingdom for a Horse]	client-wdb	client only	
+quest	94614	Freshwater Fiends		Malignos de agua dulce	[Freshwater Fiends]	client-wdb	client only	
+quest	94615	Foal Play		Enigma equino	[Foal Play]	client-wdb	client only	
+quest	94616	Water Sapta		Sapta de agua	Sapta de agua	client-wdb	web = client	
+quest	94617	Coyote Huntin'		Temporada de coyotes	[Coyote Huntin']	client-wdb	client only	
+quest	94618	Wheeler's Fleeing Steeds		Caballitos en fuga	Caballitos en fuga	client-wdb	web = client	
+quest	94638	Strength and Mercy		Fuerza y compasión	Fuerza y compasión	client-wdb	web = client	
+quest	94678	Gnoll Infestation		Infestación gnoll	Infestación gnoll	client-wdb	web = client	
+quest	94679	Snargl's Snout		Hocico de Snargl	Hocico de Snargl	client-wdb	web = client	
+quest	94773	Divine Grace		Gracia divina	Gracia divina	client-wdb	web = client	
+quest	94774	Divine Grace		Gracia divina	Gracia divina	client-wdb	web = client	
+quest	94775	Divine Grace		Gracia divina	Gracia divina	client-wdb	web = client	
+quest	94776	Divine Grace		Gracia divina	Gracia divina	client-wdb	web = client	
+quest	94777	Divine Grace		Gracia divina	Gracia divina	client-wdb	web = client	
+quest	94778	Divine Grace		Gracia divina	Gracia divina	client-wdb	web = client	
+quest	94779	Divine Grace		Gracia divina	Gracia divina	client-wdb	web = client	
+quest	94782	The Western Post		El puesto oeste	[The Western Post]	client-wdb	client only	
+quest	94789	Call of Air		La llamada del aire	La llamada del aire	client-wdb	web = client	
+quest	94792	Taming the Beast		Domesticar la bestia	Domesticar la bestia	client-wdb	web = client	
+quest	94817	Confounding Flash		Destello desconcertante	Destello desconcertante	client-wdb	web = client	
+quest	94818	Contingency Plan		Plan de contingencia	Plan de contingencia	client-wdb	web = client	
+quest	94819	Contingency Plan		Plan de contingencia	Plan de contingencia	client-wdb	web = client	
+quest	94820	Contingency Plan		Plan de contingencia	Plan de contingencia	client-wdb	web = client	
+quest	94821	Confounding Flash		Destello desconcertante	Destello desconcertante	client-wdb	web = client	
+quest	94822	Confounding Flash		Destello desconcertante	Destello desconcertante	client-wdb	web = client	
+quest	94823	Confounding Flash		Destello desconcertante	Destello desconcertante	client-wdb	web = client	
+quest	94824	Confounding Flash		Destello desconcertante	Destello desconcertante	client-wdb	web = client	
+quest	94825	Confounding Flash		Destello desconcertante	Destello desconcertante	client-wdb	web = client	
+quest	94826	Confounding Flash		Destello desconcertante	Destello desconcertante	client-wdb	web = client	
+quest	94829	What We Lost		Las cosas que perdimos	[What We Lost]	client-wdb	client only	
+quest	94832	Belle's Ring		El anillo de Belle	[Belle's Ring]	client-wdb	client only	
+quest	94842	Unsavory Plant Food		Alimento vegetal repugnante	[Unsavory Plant Food]	client-wdb	client only	
+quest	94843	From Seed to Sprout		De semilla a retoño	[From Seed to Sprout]	client-wdb	client only	
+quest	94857	If a Tree Falls, and No One Hears...		Si un árbol cae y no hay nadie para escucharlo...	[If a Tree Falls, and No One Hears...]	client-wdb	client only	
+quest	94858	All That's Left		Todo lo que queda	[All That's Left]	client-wdb	client only	
+quest	94861	Helping Hands		Mano amiga	Mano amiga	client-wdb	web = client	
+quest	94877	Saving Sunnyglade		El rescate de Claro Soleado	El rescate de Claro Soleado	client-wdb	web = client	
+quest	94879	Scraps of Knowledge		Fragmentos de conocimiento	Fragmentos de conocimiento	client-wdb	web = client	
+quest	94881	Curious Trinkets		Abalorios curiosos	Abalorios curiosos	client-wdb	web = client	
+quest	94884	An Unsettling Discovery		Un descubrimiento desconcertante	[An Unsettling Discovery]	client-wdb	client only	
+quest	94885	Field Marshal's Log		Registro de mariscal de campo	[Field Marshal's Log]	client-wdb	client only	
+quest	94886	The Western Front		El frente occidental	[The Western Front]	client-wdb	client only	
+quest	94887	Saving Marshal Ryan		Rescatando al mariscal Ryan	[Saving Marshal Ryan]	client-wdb	client only	
+quest	94889	Carving a Path		Forjar el camino	[Carving a Path]	client-wdb	client only	
+quest	94890	Bring Me His Head		Tráeme su cabeza	[Bring Me His Head]	client-wdb	client only	
+quest	94891	News to Farholde		Noticias para Farholde	[News to Farholde]	client-wdb	client only	
+quest	94892	Dying Wish		Último deseo	[Dying Wish]	client-wdb	client only	
+quest	94893	Delivering Closure		Entrega de despedida	[Delivering Closure]	client-wdb	client only	
+quest	94894	The Twilight Threat		La amenaza Crepuscular	[The Twilight Threat]	client-wdb	client only	
+quest	94907	A Small Favor		Un pequeño favor	[A Small Favor]	client-wdb	client only	
+quest	94911	Child of Nature		Hijos de la naturaleza	Hijos de la naturaleza	client-wdb	web = client	
+quest	94912	Child of Nature		Hijos de la naturaleza	Hijos de la naturaleza	client-wdb	web = client	
+quest	94914	Moonglade		Claro de la Luna	Claro de la Luna	client-wdb	web = client	
+quest	94923	Hats Off		Quitarse el sombrero	[Hats Off]	client-wdb	client only	
+quest	94924	Hunting the Hunters		Cacería de cazadores	[Hunting the Hunters]	client-wdb	client only	
+quest	94925	A Fur Trade		A cambio de pieles	[A Fur Trade]	client-wdb	client only	
+quest	94927	Dunston Checks Out		Dunston se despide	[Dunston Checks Out]	client-wdb	client only	
+quest	94928	A Few Furs for Friz		Pieles para Friz	[A Few Furs for Friz]	client-wdb	client only	
+quest	94931	Stolen Saws		Sierras robadas	Sierras robadas	client-wdb	web = client	
+quest	94946	The Magical City of Dalaran		La ciudad mágica de Dalaran	La ciudad mágica de Dalaran	client-wdb	web = client	
+quest	94947	Welcome to Azeroth		Bienvenido a Azeroth	Bienvenido a Azeroth	client-wdb	web = client	
+quest	94961	Biting the Hand		Morder la mano	[Biting the Hand]	client-wdb	client only	
+quest	94979	Taming the Beast		Domesticar la bestia	Domesticar la bestia	client-wdb	web = client	
+quest	94992	Rescue Roundup		Rescates hípicos	[Rescue Roundup]	client-wdb	client only	
+quest	94999	Eyes for the Watchman		Ojos para el vigía	[Eyes for the Watchman]	client-wdb	client only	
+quest	95006	Stolen Power		Poder robado	Poder robado	client-wdb	web = client	
+quest	95059	Frazzlespark's Crate		El cajón de Chisporreante	[Frazzlespark's Crate]	client-wdb	client only	
+quest	95064	Preventative Measures		Medidas preventivas	Medidas preventivas	client-wdb	web = client	
+quest	95066	The Rog'mar Situation		La situación de Rog'mar	[The Rog'mar Situation]	client-wdb	client only	
+quest	95118	Saltwater Savages		Salvajes de agua salada	Salvajes de agua salada	client-wdb	web = client	
+quest	95119	Unfriendly Competition		Competencia poco amistosa	Competencia poco amistosa	client-wdb	web = client	
+quest	95120	WANTED: Old Rot-Chum		SE BUSCA: Viejo Putrecebo	SE BUSCA: Viejo Putrecebo	client-wdb	web = client	
+quest	95121	A Taste of the Sea		Sabores de mar	Sabores de mar	client-wdb	web = client	
+quest	95122	Unchecked Expansion		Expansión descontrolada	Expansión descontrolada	client-wdb	web = client	
+quest	95123	A Blast Ye Scurvy Dogs!		¡A volar, perros despreciables!	¡A volar, perros despreciables!	client-wdb	web = client	
+quest	95124	Admiral Lamora		Almirante Lamora	Almirante Lamora	client-wdb	web = client	
+quest	95147	The Lost Scout		El explorador perdido	[The Lost Scout]	client-wdb	client only	
+quest	95148	Southern Watch Gnoll Report		Informe de gnolls en la Avanzada del Sur	[Southern Watch Gnoll Report]	client-wdb	client only	
+quest	95156	Stuff 'Em and Stick 'Em		Rellenar y clavar	[Stuff 'Em and Stick 'Em]	client-wdb	client only	
+quest	95165	See Ya, Scallywags!		¡Nos vemos, rufianes!	¡Nos vemos, rufianes!	client-wdb	web = client	
+quest	95212	Never Saddle on Quality		Nunca escatimes en la calidad	Nunca escatimes en la calidad	client-wdb	web = client	
+quest	95213	Stolen Blasting Powder		Pólvora explosiva robada	Pólvora explosiva robada	client-wdb	web = client	
+quest	95214	Stolen Blasting Powder		Pólvora explosiva robada	Pólvora explosiva robada	client-wdb	web = client	
+quest	95217	The Quarry's Smith		El herrero de la cantera	El herrero de la cantera	client-wdb	web = client	
+quest	95218	More of the Same		Más de lo mismo	[More of the Same]	client-wdb	client only	
+quest	95248	To the Summit of Eternity		Hacia la Cima de la Eternidad	[To the Summit of Eternity]	client-wdb	client only	
+quest	95260	Terrors From the Deep		Terrores de lo profundo	Terrores de lo profundo	client-wdb	web = client	
+quest	95261	It Takes Guts		Requiere agallas	Requiere agallas	client-wdb	web = client	
+quest	95267	The Monster Surfaces		El monstruo aparece	El monstruo aparece	client-wdb	web = client	
+quest	95288	Smuggler's Paradise		Paraíso de contrabandistas	Paraíso de contrabandistas	client-wdb	web = client	
+quest	95293	Smuggler's Special		Regalo especial de la contrabandista	Regalo especial de la contrabandista	client-wdb	web = client	
+quest	95294	Smuggler's Bargain		Acuerdo de la contrabandista	Acuerdo de la contrabandista	client-wdb	web = client	
+quest	95316	The Experimental Method		El método experimental	[The Experimental Method]	client-wdb	client only	
+quest	95318	Taste of Ash		Sabor a cenizas	[Taste of Ash]	client-wdb	client only	
+quest	95319	Crystalline Collection		Colección cristalina	Colección cristalina	client-wdb	web = client	
+quest	95320	A Curious Question		Una cuestión curiosa	[A Curious Question]	client-wdb	client only	
+quest	95329	Out in the Field		Puesto de vigilancia	[Out in the Field]	client-wdb	client only	
+quest	95330	Love Thy Neighbor		Por amor al prójimo	[Love Thy Neighbor]	client-wdb	client only	
+quest	95378	The Hydra's Head		La cabeza de hidra	La cabeza de hidra	client-wdb	web = client	
+quest	95379	A Revenge So Sweet		Una dulce venganza	Una dulce venganza	client-wdb	web = client	
+quest	95380	A Prolific Source		Una fuente prolífica	Una fuente prolífica	client-wdb	web = client	
+quest	95426	Rog'mar Supplies		Suministros de Rog'mar	Suministros de Rog'mar	client-wdb	web = client	
+quest	95511	Your First Feline Friend		Tu primera amistad felina	Tu primera amistad felina	client-wdb	web = client	
+quest	95561	Apple of My Eye		La niña de mis ojos	La niña de mis ojos	client-wdb	web = client	
+quest	95562	Cut Off the Heads		Que rueden las cabezas	[Cut Off the Heads]	client-wdb	client only	
+quest	95568	Seeds for a New Season		Semillas para la nueva estación	Semillas para la nueva estación	client-wdb	web = client	
+quest	95569	Hope for Hatchlings		Una esperanza para las crías	Una esperanza para las crías	client-wdb	web = client	
+quest	95603	Bats in the Belfry		Murciélagos locos de remate	[Bats in the Belfry]	client-wdb	client only	
+quest	95611	Rites of Respect		Ritos de respeto	[Rites of Respect]	client-wdb	client only	
+quest	95615	In Memoriam		En memoria	[In Memoriam]	client-wdb	client only	
+quest	95642	Abominable Magics		Magia abominable	[Abominable Magics]	client-wdb	client only	
+quest	95643	Indiscriminate Purge		Purga indiscriminada	[Indiscriminate Purge]	client-wdb	client only	
+quest	95646	Horrors in the Highland		Horrores en las Tierras Altas	Horrores en las Tierras Altas	client-wdb	web = client	
+quest	95737	Seeking Caitlin		En busca de Caitlin	En busca de Caitlin	client-wdb	web = client	
+quest	95766	Fine Feathered Friend		Colaboración córvida	[Fine Feathered Friend]	client-wdb	client only	
+quest	95792	Clear 'em Out		Desalojo dracónico	[Clear 'em Out]	client-wdb	client only	
+quest	95793	Stemming the Demon Tide		Alto al avance demoníaco	Alto al avance demoníaco	client-wdb	web = client	
+quest	95912	WANTED: Blademaster Kaijo		SE BUSCA: Maestro del acero Kaijo	SE BUSCA: Maestro del acero Kaijo	client-wdb	web = client	
+quest	95913	Fit for a Princess		Digno de una princesa	[Fit for a Princess]	client-wdb	client only	
+quest	95934	Proof of Profit		Prueba de ganancias	[Proof of Profit]	client-wdb	client only	
+quest	95943	Foreman's Plight		Un supervisor en apuros	Un supervisor en apuros	client-wdb	web = client	
+quest	95957	Drink Up!		¡A beber!	[Drink Up!]	client-wdb	client only	
+quest	95961	Stepped Out		Salió un momento	[Stepped Out]	client-wdb	client only	
+quest	95975	Her World		Su mundo	[Her World]	client-wdb	client only	
+quest	95983	A Feast for Buzzards		Un festín para las águilas ratoneras	[A Feast for Buzzards]	client-wdb	client only	
+quest	95984	Song of the Strider		Canción del zancudo	Canción del zancudo	client-wdb	web = client	
+quest	95986	King of the Wild Plains		Rey de las Llanuras Salvajes	Rey de las Llanuras Salvajes	client-wdb	web = client	
+quest	95988	Goes Down Smooth		Fácil de tragar	[Goes Down Smooth]	client-wdb	client only	
+quest	95991	WANTED: Ghostmaw		SE BUSCA: Faucespíritu	SE BUSCA: Faucespíritu	client-wdb	web = client	
+quest	96003	Drawing Down the Malevolent		Sustracción de la malevolencia	[Drawing Down the Malevolent]	client-wdb	client only	
+quest	96009	High Stakes		A toda estaca	[High Stakes]	client-wdb	client only	
+quest	96015	A Miner Problem		Un problema minero	Un problema minero	client-wdb	web = client	
+quest	96018	Powering the Pylons		Potenciación de pilares	Potenciación de pilares	client-wdb	web = client	
+quest	96025	As the Crow Flies		A vuelo de pájaro	[As the Crow Flies]	client-wdb	client only	
+quest	96031	Camping 101: Leatherworking		Campamento básico: Peletería	Campamento básico: Peletería	client-wdb	web = client	
+quest	96044	Camping 101: Blacksmithing		Campamento básico: Herrería	Campamento básico: Herrería	client-wdb	web = client	
+quest	96045	Camping 101: Alchemy		Campamento básico: Alquimia	Campamento básico: Alquimia	client-wdb	web = client	
+quest	96046	Camping 101: Mining		Campamento básico: Minería	Campamento básico: Minería	client-wdb	web = client	
+quest	96047	Camping 101: First Aid		Campamento básico: Primeros auxilios	Campamento básico: Primeros auxilios	client-wdb	web = client	
+quest	96050	Camping 101: Fishing		Campamento básico: Pesca	Campamento básico: Pesca	client-wdb	web = client	
+quest	96055	Camping 101: Herbalism		Campamento básico: Herboristería	Campamento básico: Herboristería	client-wdb	web = client	
+quest	96056	Camping 101: Skinning		Campamento básico: Desuello	Campamento básico: Desuello	client-wdb	web = client	
+quest	96057	Camping 101: Tailoring		Campamento básico: sastrería	Campamento básico: sastrería	client-wdb	web = client	
+quest	96058	Camping 101: Engineering		Campamento básico: Ingeniería	Campamento básico: Ingeniería	client-wdb	web = client	
+quest	96059	Camping 101: Enchanting		Campamento básico: Encantamiento	Campamento básico: Encantamiento	client-wdb	web = client	
+quest	96063	Gaseous Gold		Oro gaseoso	Oro gaseoso	client-wdb	web = client	
+quest	96067	Rock 'em and Sock 'em		Golpes y sacudidas	Golpes y sacudidas	client-wdb	web = client	
+quest	96082	Doctor's Orderly		A las órdenes del médico	[Doctor's Orderly]	client-wdb	client only	
+quest	96083	Clerical Quarantine		Cuarentena clerical	[Clerical Quarantine]	client-wdb	client only	
+quest	96084	Something's in the Water		De esta agua no he de beber	[Something's in the Water]	client-wdb	client only	
+quest	96101	The Great Outdoors		Bendita naturaleza	Bendita naturaleza	client-wdb	web = client	
+quest	96102	Camping 101: Tailoring		Campamento básico: Sastrería	Campamento básico: Sastrería	client-wdb	web = client	
+quest	96125	In Need of Relief		En busca de alivio	En busca de alivio	client-wdb	web = client	
+quest	96126	An Ogre's Captive		Cautivo de los ogros	Cautivo de los ogros	client-wdb	web = client	
+quest	96131	An Oldstone But An Old Friend		Un viejo amigo carcamal	[An Oldstone But An Old Friend]	client-wdb	client only	
+quest	96138	Merrick's Bow		Arco de Merrick	Arco de Merrick	client-wdb	web = client	
+quest	96145	Past Wing and Claw		Más allá de las alas y garras	[Past Wing and Claw]	client-wdb	client only	
+quest	96209	The Ancient, Orokai		El anciano, Orokai	El anciano, Orokai	client-wdb	web = client	
+quest	96252	Tarnished Treasures		Tesoros trágicos	[Tarnished Treasures]	client-wdb	client only	
+quest	96255	Amalgamated Marrow		Médula amalgamada	Médula amalgamada	client-wdb	web = client	
+quest	96262	Prickly Pinecones		Piñas espinosas	Piñas espinosas	client-wdb	web = client	
+quest	96296	Fetid Corruption		Corrupción fétida	Corrupción fétida	client-wdb	web = client	
+quest	96321	The Dying God		Un dios agonizante	[The Dying God]	client-wdb	client only	
+quest	96390	Nip 'Em in the Bud		Párteles el coco	Párteles el coco	client-wdb	web = client	
+quest	96392	Farsen's Watch		La vigilancia de Farsen	La vigilancia de Farsen	client-wdb	web = client	
+quest	96393	Old Ironforge Incursion		Incursión a Antigua Forjaz	Incursión a Antigua Forjaz	client-wdb	web = client	
+quest	96394	The Restless Dead		Los muertos sin descanso	Los muertos sin descanso	client-wdb	web = client	
+quest	96395	An Ancient Grudge		Un rencor antiguo	Un rencor antiguo	client-wdb	web = client	
+quest	96403	Important Heirlooms		Reliquias importantes	Reliquias importantes	client-wdb	web = client	
+quest	96408	A Visitor to Dun Morogh		Un visitante en Dun Morogh	Un visitante en Dun Morogh	client-wdb	web = client	
+quest	96435	A Fitting End		Un final apropiado	[A Fitting End]	client-wdb	client only	
+quest	96550	Battle Recall		Recuerdos de batalla	[Battle Recall]	client-wdb	client only	
+quest	96559	Supply Drop		Paquete de suministros	[Supply Drop]	client-wdb	client only	
+quest	96608	The Great Outdoors		Bendita naturaleza	Bendita naturaleza	client-wdb	web = client	
+quest	96626	Camping 101: Cooking		Campamento básico: Cocina	Campamento básico: Cocina	client-wdb	web = client	
+quest	96628	The Adventurer		El aventurero	El aventurero	client-wdb	web = client	
+quest	96629	Camping 101: Cooking		Campamento básico: Cocina	Campamento básico: Cocina	client-wdb	web = client	
+quest	96638	The Adventurer		El aventurero	El aventurero	client-wdb	web = client	
+quest	96646	Camping 101: Cooking		Campamento básico: Cocina	Campamento básico: Cocina	client-wdb	web = client	
+quest	96661	Camping 101: Cooking		Campamento básico: Cocina	Campamento básico: Cocina	client-wdb	web = client	
+quest	96779	Syndicate Sabotage		Sabotaje a la Hermandad	Sabotaje a la Hermandad	client-wdb	web = client	
+quest	96781	What's the Big Idea?		Dime tu gran idea	Dime tu gran idea	client-wdb	web = client	
+quest	96782	Covert Extraction		Extracción encubierta	Extracción encubierta	client-wdb	web = client	
+quest	96783	A Way In		Una forma de entrar	Una forma de entrar	client-wdb	web = client	
+quest	96784	Master of Disguise		Maestro del disfraz	Maestro del disfraz	client-wdb	web = client	
+quest	96785	Ain't No Telling		Quién sabe	Quién sabe	client-wdb	web = client	
+quest	96786	The Syndicate Sting		El aguijón de la Hermandad	El aguijón de la Hermandad	client-wdb	web = client	
+quest	96796	Woods Workshop		Taller de carpintería	[Woods Workshop]	client-wdb	client only	
+quest	96800	Past Due		Atrasado	Atrasado	client-wdb	web = client	
+quest	96830	Farsight Guided		Vista lejana guiada	[Farsight Guided]	client-wdb	client only	
+quest	96833	Venom Maws		Fauces venenosas	[Venom Maws]	client-wdb	client only	
+quest	96930	The Capricious Corvid		La córvida caprichosa	[The Capricious Corvid]	client-wdb	client only	
+quest	96931	Heading Up the Mountain		Camino arriba en la montaña	[Heading Up the Mountain]	client-wdb	client only	
+quest	96939	The Balance of Life and Death		El equilibrio entre la vida y la muerte	[The Balance of Life and Death]	client-wdb	client only	
+quest	96957	Bone Sweet Bone		Hueso, dulce hueso	Hueso, dulce hueso	client-wdb	web = client	
+quest	96959	Blademaster's Bonfires		Las fogatas del maestro del acero	[Blademaster's Bonfires]	client-wdb	client only	
+quest	96964	A Clever Creature		Una criatura astuta	[A Clever Creature]	client-wdb	client only	
+quest	96971	To Outfox a Demon		Astucia de zorro	Astucia de zorro	client-wdb	web = client	
+quest	96978	Violent Venison		Venado violento	[Violent Venison]	client-wdb	client only	
+quest	96979	Sacred Refreshment		Refresco sagrado	[Sacred Refreshment]	client-wdb	client only	
+quest	96991	Trail Assist		Asistencia al viajero	Asistencia al viajero	client-wdb	web = client	
+quest	96992	Resupply		Reabastecimiento	[Resupply]	client-wdb	client only	
+quest	97009	Maerion's Misery		La desdicha de Maerion	La desdicha de Maerion	client-wdb	web = client	
+quest	97234	Reading Room		Zona de lectura	Zona de lectura	client-wdb	web = client	
+quest	97236	Fang of Githyiss		Colmillo de Githyiss	Colmillo de Githyiss	client-wdb	web = client	
+quest	97263	Your Package Has Arrived		Tu paquete ha llegado	Tu paquete ha llegado	client-wdb	web = client	
+quest	97277	Grund and Gozwin		Grund y Gozwin	Grund y Gozwin	client-wdb	web = client	
+quest	97530	Dunemaul Dues		Deudas Machacadunas	Deudas Machacadunas	client-wdb	web = client	
+quest	97899	Camping 101: Alchemy		Campamento básico: Alquimia	Campamento básico: Alquimia	client-wdb	web = client	
+quest	97914	Expanding Horizons		Expandiendo tus horizontes	Expandiendo tus horizontes	client-wdb	web = client	
+quest	97916	Camping 101: Blacksmithing		Campamento básico: Herrería	Campamento básico: Herrería	client-wdb	web = client	
+quest	97922	Camping 101: Leatherworking		Campamento básico: Peletería	Campamento básico: Peletería	client-wdb	web = client	
+quest	97924	Camping 101: Skinning		Campamento básico: Desuello	Campamento básico: Desuello	client-wdb	web = client	
+quest	97925	Camping 101: Tailoring		Campamento básico: Sastrería	Campamento básico: Sastrería	client-wdb	web = client	
+quest	97927	Camping 101: Alchemy		Campamento básico: Alquimia	Campamento básico: Alquimia	client-wdb	web = client	
+quest	97928	Camping 101: Blacksmithing		Campamento básico: Herrería	Campamento básico: Herrería	client-wdb	web = client	
+quest	97929	Camping 101: Enchanting		Campamento básico: Encantamiento	Campamento básico: Encantamiento	client-wdb	web = client	
+quest	97930	Camping 101: Engineering		Campamento básico: Ingeniería	Campamento básico: Ingeniería	client-wdb	web = client	
+quest	97931	Camping 101: First Aid		Campamento básico: Primeros auxilios	Campamento básico: Primeros auxilios	client-wdb	web = client	
+quest	97933	Camping 101: Herbalism		Campamento básico: Herboristería	Campamento básico: Herboristería	client-wdb	web = client	
+quest	97934	Camping 101: Leatherworking		Campamento básico: Peletería	Campamento básico: Peletería	client-wdb	web = client	
+quest	97935	Camping 101: Mining		Campamento básico: Minería	Campamento básico: Minería	client-wdb	web = client	
+quest	97936	Camping 101: Skinning		Campamento básico: Desuello	Campamento básico: Desuello	client-wdb	web = client	
+quest	97937	Camping 101: Tailoring		Campamento básico: Sastrería	Campamento básico: Sastrería	client-wdb	web = client	
+quest	97938	Camping 101: Alchemy		Campamento básico: Alquimia	Campamento básico: Alquimia	client-wdb	web = client	
+quest	97939	Camping 101: Blacksmithing		Campamento básico: herrería	Campamento básico: herrería	client-wdb	web = client	
+quest	97941	Camping 101: Engineering		Campamento básico: Ingeniería	Campamento básico: Ingeniería	client-wdb	web = client	
+quest	97946	Camping 101: Leatherworking		Campamento básico: peletería	Campamento básico: peletería	client-wdb	web = client	
+quest	97948	Camping 101: Mining		Campamento básico: minería	Campamento básico: minería	client-wdb	web = client	
+quest	97952	Camping 101: Blacksmithing		Campamento básico: Herrería	Campamento básico: Herrería	client-wdb	web = client	
+quest	97958	Camping 101: Leatherworking		Campamento básico: peletería	Campamento básico: peletería	client-wdb	web = client	
+quest	97963	Camping 101: Alchemy		Campamento básico: Alquimia	Campamento básico: Alquimia	client-wdb	web = client	
+quest	97964	Camping 101: Blacksmithing		Campamento básico: Herrería	Campamento básico: Herrería	client-wdb	web = client	
+quest	97965	Camping 101: First Aid		Campamento básico: Primeros auxilios	Campamento básico: Primeros auxilios	client-wdb	web = client	
+quest	97970	Camping 101: Mining		Campamento básico: Minería	Campamento básico: Minería	client-wdb	web = client	
+quest	97973	Camping 101: Tailoring		Campamento básico: Sastrería	Campamento básico: Sastrería	client-wdb	web = client	
+quest	98021	Journey to Sentinel Hill		Viaje a la Colina del Centinela	Viaje a la Colina del Centinela	client-wdb	web = client	
+quest	98059	Hillsbrad's Hoard		Las reservas de Trabalomas	Las reservas de Trabalomas	client-wdb	web = client	
+quest	98197	Spoils of War		Botín de guerra	Botín de guerra	client-wdb	web = client	
+quest	98221	From the Ashes		Desde las cenizas	Desde las cenizas	client-wdb	web = client	
+quest	98233	Sword in the Slime		La espada en la baba	[Sword in the Slime]	client-wdb	client only	
+quest	98246	Trying Times		Tiempos difíciles	Tiempos difíciles	client-wdb	web = client	
+quest	98247	Shipping Label		Etiqueta de envío	Etiqueta de envío	client-wdb	web = client	
+quest	98283	Carnage		Carnicería	Carnicería	client-wdb	web = client	
+quest	98284	Camping 101: Enchanting		Campamento básico: Encantamiento	Campamento básico: Encantamiento	client-wdb	web = client	
+quest	98286	Camping 101: Enchanting		Campamento básico: Encantamiento	Campamento básico: Encantamiento	client-wdb	web = client	
+quest	98287	Camping 101: Engineering		Campamento básico: Ingeniería	Campamento básico: Ingeniería	client-wdb	web = client	
+quest	98319	Secure the Mountain		Asegura la montaña	Asegura la montaña	client-wdb	web = client	
+quest	98322	Secure the Mountain		Asegura la montaña	Asegura la montaña	client-wdb	web = client	
+quest	98323	Secure the Mountain		Asegura la montaña	Asegura la montaña	client-wdb	web = client	
+quest	98340	The Great Cat Spirit		El gran espíritu felino	El gran espíritu felino	client-wdb	web = client	
+quest	98342	The Great Cat Spirit		El gran espíritu felino	El gran espíritu felino	client-wdb	web = client	
+quest	98362	To Thunder Bluff		Hacia Cima del Trueno	Hacia Cima del Trueno	client-wdb	web = client	
+quest	98386	Alther's Mill		Molino de Alther	Molino de Alther	client-wdb	web = client	
+quest	98393	The Great Cat Spirit		El gran espíritu felino	El gran espíritu felino	client-wdb	web = client	
+quest	98394	The Great Cat Spirit		El gran espíritu felino	El gran espíritu felino	client-wdb	web = client	
+quest	98397	To Darnassus		A Darnassus	A Darnassus	client-wdb	web = client	
+quest	98423	The Treaty of Understanding		El Tratado del entendimiento	El Tratado del entendimiento	client-wdb	web = client	
+quest	98463	Talk of the Town		El tema del momento	El tema del momento	client-wdb	web = client	
+quest	98512	Al'Aketh Assassins		Asesinos Al'Aketh	Asesinos Al'Aketh	client-wdb	web = client	
+quest	98574	Hallowed Memorandum		Memorándum sacralizado	Memorándum sacralizado	client-wdb	web = client	
+quest	98815	Highland Hides		Pellejos de las Tierras Altas	Pellejos de las Tierras Altas	client-wdb	web = client	
+quest	98824	Prehistoric Prism		Prisma prehistórico	Prisma prehistórico	client-wdb	web = client	
+quest	98887	Conflict at Darkspear Islands		El conflicto en las Islas Lanza Negra	El conflicto en las Islas Lanza Negra	client-wdb	web = client	
+quest	98889	Conflict at Darkspear Islands		El conflicto en las Islas Lanza Negra	El conflicto en las Islas Lanza Negra	client-wdb	web = client	
+quest	98891	Conflict at Darkspear Islands		El conflicto en las Islas Lanza Negra	El conflicto en las Islas Lanza Negra	client-wdb	web = client	
+quest	98893	Conflict at Darkspear Islands		El conflicto en las Islas Lanza Negra	El conflicto en las Islas Lanza Negra	client-wdb	web = client	
+quest	98895	Darkspear Islands Clash		Contienda en las Islas Lanza Negra	Contienda en las Islas Lanza Negra	client-wdb	web = client	
+quest	98897	Darkspear Islands Clash		Contienda en las Islas Lanza Negra	Contienda en las Islas Lanza Negra	client-wdb	web = client	
+quest	98899	Darkspear Islands Clash		Contienda en las Islas Lanza Negra	Contienda en las Islas Lanza Negra	client-wdb	web = client	
+quest	98901	Darkspear Islands Clash		Contienda en las Islas Lanza Negra	Contienda en las Islas Lanza Negra	client-wdb	web = client	
+quest	99158	Dawn in the Mountains		Alba en las montañas	Alba en las montañas	client-wdb	web = client	
+quest	99159	Finding Warmth		En busca de calidez	En busca de calidez	client-wdb	web = client	
+quest	99160	Rime's Wrath		Cólera de helada blanca	Cólera de helada blanca	client-wdb	web = client	
+quest	99161	Rime's Wrath		Cólera de helada blanca	Cólera de helada blanca	client-wdb	web = client	
+quest	99162	Treacherous Cold		Frío traicionero	Frío traicionero	client-wdb	web = client	
+quest	99191	A Donation of Wool		Un donativo de lana	Un donativo de lana	client-wdb	web = client	
+quest	99257	A Heart of Crystal		Un corazón de cristal	[A Heart of Crystal]	client-wdb	client only	
+quest	99260	Fillion's Mission		La misión de Fillion	La misión de Fillion	client-wdb	web = client	
